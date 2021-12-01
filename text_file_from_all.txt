@@ -1,0 +1,517 @@
+
+====================================================
+From YAML-file: dcat_ap_se/bacterioplankton_nat.yaml
+====================================================
+
+TITLE(en):
+SHARK - National marine bacterioplankton monitoring in Sweden since 1989
+
+DESCRIPTION(en):
+Bacterioplankton has been monitored in Sweden since 1989.
+The national monitoring program was initiated by the Swedish Environmental Protection Agency and is now financed by the Swedish Agency for Marine and Water Management.
+
+Monitoring is performed by Umeå University. Data are stored in the Swedish Ocean Archive (SHARK) database by the Swedish Meteorological and Hydrological Institute (SMHI).
+
+Data are collected and analyzed according to the HELCOM COMBINE Manual - Part C Annex C11 Guidelines concerning bacterioplankton growth determination (https://helcom.fi/media/documents/Manual-for-Marine-Monitoring-in-the-COMBINE-Programme-of-HELCOM_PartC_AnnexC11.pdf) or similar methods.
+Bacterioplankton growth rate is an indicator of the nutrient status in aquatic environments. It is an estimate of the consumption of organic carbon in the ecosystem and therefore closely related to the biochemical oxygen demand in situ (cf. BOD7).
+Bacterioplankton growth rate thereby indicates the rate of oxygen consumption that may lead to oxygen deficiency in the water column when exceeding oxygen supply (HELCOM COMBINE Manual https://helcom.fi/media/documents/Manual-for-Marine-Monitoring-in-the-COMBINE-Programme-of-HELCOM_PartC_AnnexC11.pdf).
+
+Information about the program and the methods are also available in Swedish at https://www.havochvatten.se/hav/vagledning--lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/bakteriell-syrekonsumtion.html
+
+TITLE(sv):
+SHARK – Nationell marin övervakning av bakterioplankton sedan 1989
+
+DESCRIPTION(sv):
+Bakterioplankton har övervakats i Sverige sedan 1989.
+Det nationella övervakningsprogrammet initierades av Naturvårdsverket och finansieras nu av Havs- och vattenmyndigheten.
+
+Övervakningen utförs av Umeå Universitet. Data lagras i Sveriges Havsarkiv-databasen (SHARK) av Sveriges Meteorologiska och Hydrologiska Institut (SMHI).
+
+Data samlas in och analyseras enligt HELCOM COMBINE Manual-Del C Bilaga C11 Riktlinjer för bestämning av bakterioplanktontillväxt (https://helcom.fi/media/documents/Manual-for-Marine- Monitoring-in-the-COMBINE-Programme -of-HELCOM_PartC_AnnexC11.pdf) eller liknande metoder.
+Tillväxttakten av Bakterioplankton är en indikator på näringsstatus i vattenmiljöer. Det är en uppskattning av förbrukningen av organiskt kol i ekosystemet och därför nära relaterat till det biokemiska syrebehovet in situ (jfr BOD7). Bakterioplanktons tillväxttakt kan därigenom indikera hur hur snabbt syreförbrukningen skulle kunna leda till syrebrist i vattenpelaren när den överskrider syretillförseln (HELCOM COMBINE Manual https://helcom.fi/media/documents/Manual-for-Marine-Monitoring-in-the-COMBINE-Program-of-HELCOM_PartC_AnnexC11.pdf).
+
+Information om programmet och metoderna finns också på svenska på https://www.havochvatten.se/hav/vagledning--lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/bakteriell-syrekonsumtion.html
+
+
+====================================================
+From YAML-file: dcat_ap_se/chlorophyll.yaml
+====================================================
+
+TITLE(en):
+SHARK – National monitoring of Chlorofyll in Sweden since 1982
+
+DESCRIPTION(en):
+TODO
+
+TITLE(sv):
+TODO
+
+DESCRIPTION(sv):
+TODO
+
+====================================================
+From YAML-file: dcat_ap_se/epibenthos_nat.yaml
+====================================================
+
+TITLE(en):
+SHARK - National Epibenthos monitoring in Sweden since 1992
+
+DESCRIPTION(en):
+Epibenthos has been nationally monitored in Sweden since 1992.
+The monitoring program was initiated by the Swedish Environmental Protection Agency and later the Swedish Agency for Marine and Water Management took over the responsibility and financing of the program.
+
+The monitoring is performed by Stockholm University, University of Gothenburg and Linnaeus University. The data is stored in the database SHARK, hosted and maintained by the Swedish Meteorological and Hydrological Institute.
+
+The epibenthos monitoring program studies hard and soft bottoms from the surface down to 10-20 meters. Data is collected in transects or squares with help of divers.
+Species abundances are determined directly by the divers or photographs/video are taken and analyzed later.
+Field notes are in Swedish.
+
+TITLE(sv):
+SHARK – Nationell marin övervakning av epibentos sedan 1992
+
+DESCRIPTION(sv):
+Epibentos har övervakats nationellt i Sverige sedan 1992.
+Övervakningsprogrammet initierades av Naturvårdsverket och senare tog Havs- och vattenmyndigheten över ansvaret och finansieringen av programmet.
+
+Övervakningen utförs av Stockholms universitet, Göteborgs universitet och Linnéuniversitetet. Data lagras i Sveriges Havsarkiv -databasen (SHARK) av Sveriges Meteorologiska och hydrologiska institut (SMHI).
+
+Epibentos övervakningsprogram studerar hårda och mjuka bottnar från ytan ner till 10-20 meter. Data samlas in i transekter eller rutor av dykare. Populationsstorlekar bestäms direkt av dykarna alternativt på fotografier/video som tas och analyseras senare.
+
+Fältanteckningar är på svenska.
+
+Mer information finns på svenska på https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-vegetationskladda-bottnar.htm
+
+====================================================
+From YAML-file: dcat_ap_se/epibenthos_reg.yaml
+====================================================
+
+TITLE(en):
+SHARK - Regional monitoring and monitoring projects of Epibenthos in Sweden since 1994
+
+DESCRIPTION(en):
+Epibenthos has been regionally monitored in Sweden since 1994.
+The monitoring is financed by the Swedish county administration boards, municipalities and Swedish coalitions of water conservation. Recipient control data financed by companies are also included.
+The data is stored in the database SHARK, hosted and maintained by the Swedish Meteorological and Hydrological Institute.
+
+The Epibenthos monitoring programs and projects studies hard and soft bottoms from the surface down to 10-20 meters. Data is collected in transects or squares with help of divers. Species abundances are determined directly by the divers or photographs/video are taken and analyzed later.
+Field notes are in Swedish.
+
+More information is available in Swedish at https://www.havochvatten.se/hav/samordning-fakta/miljoovervakning/samordning-av-miljoovervakning/regional-miljoovervakning.html and https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens- programomrade-kust-och-hav/delprogram-vegetationskladda-bottnar.html
+
+TITLE(sv):
+SHARK – Regional övervakning samt andra övervakningsprojekt av Epibentos i Sverige sedan 1994
+
+DESCRIPTION(sv):
+Epibentos har övervakats regionalt i Sverige sedan 1994.
+Övervakningen finansieras av länsstyrelserna, Svenska kommuner och svenska vattenvårdsförbund. Mottagarkontrolldata som finansieras av företag ingår också i datatypen.
+Data lagras i Sveriges Havsarkiv-databasen (SHARK) av Sveriges Meteorologiska och hydrologiska institut.
+
+Epibentos övervakningsprogram och projekt studerar hårda och mjuka bottnar från ytan ner till 10-20 meter. Data samlas in i transekter eller rutor av dykare. Populationsstorlekar bestäms direkt av dykarna alternativt på fotografier/video som tas och analyseras senare.
+Fältanteckningar är på svenska.
+
+Mer information finns på svenska på https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/samordning-av-miljoovervakning/regional-miljoovervakning.html och https://www.havochvatten.se/ hav/samordning-fakta/miljoovervakning/miljoovervakningens- programomrade-kust-och-hav/delprogram-vegetationskladda-bottnar.html
+
+====================================================
+From YAML-file: dcat_ap_se/greyseal_nat.yaml
+====================================================
+
+TITLE(en):
+SHARK - National Grey seal monitoring in Sweden since 1989
+
+DESCRIPTION(en):
+Data from the Swedish environmental monitoring program for Grey seal.
+The monitoring program was initiated in 1989 by the Swedish Environmental Protection Agency and later the  Swedish Agency for Marine and Water Management took over the responsibility and financing of the program.
+
+The monitoring is performed by the Swedish Museum of Natural History.
+Data is stored in the database SHARK, hosted and maintained by the Swedish Meteorological and Hydrological Institute.
+
+Monitoring of seals is performed by counting seals from land, ship or airplane.
+More information is available in Swedish at https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och-havsorn.html
+
+TITLE(sv):
+SHARK – Nationell övervakning av gråsäl i Sverige sedan 1989
+
+DESCRIPTION(sv):
+Data från det svenska miljöövervakningsprogrammet för gråsäl.
+Övervakningsprogrammet initierades 1989 av Naturvårdsverket och senare tog  Havs- och vattenmyndigheten över ansvaret och finansieringen av programmet.
+
+Övervakningen utförs av Naturhistoriska riksmuseet.
+Data lagras i Sveriges Havsarkiv -databasen (SHARK) av Sveriges Meteorologiska och hydrologiska institut.
+
+Övervakning av sälar utförs genom att räkna sälar från land, fartyg eller flygplan.
+
+Mer information finns på svenska på https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och-havsorn.html
+
+
+====================================================
+From YAML-file: dcat_ap_se/harbourporpoise.yaml
+====================================================
+
+TITLE(en):
+SHARK – National monitoring of Harbour Porpoise in Sweden since 2011
+
+DESCRIPTION(en):
+TODO
+
+TITLE(sv):
+TODO
+
+DESCRIPTION(sv):
+TODO
+
+====================================================
+From YAML-file: dcat_ap_se/harbourseal_nat.yaml
+====================================================
+
+TITLE(en):
+SHARK - National Harbour seal monitoring in Sweden since 1988
+
+DESCRIPTION(en):
+Data from the Swedish environmental monitoring program for Harbour seal.
+The monitoring program was initiated in 1988 by the Swedish Environmental Protection Agency and later the Swedish Agency for Marine and Water Management took over the responsibility and financing of the program.
+
+The monitoring is performed by the Swedish Museum of Natural History.
+Data is stored in the database SHARK, hosted and maintained by the Swedish Meteorological and Hydrological Institute.
+
+Monitoring of seals is performed by counting seals from land, ship or airplane.
+
+More information is available in Swedish at  https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och-havsorn.html
+
+TITLE(sv):
+SHARK – Nationell övervakning av Knubbsäl i Sverige sedan 1988
+
+DESCRIPTION(sv):
+Data från det svenska miljöövervakningsprogrammet för knubbsäl.
+Övervakningsprogrammet initierades 1988 av Naturvårdsverket och senare tog Havs-och vattenmyndigheten över ansvaret och finansieringen av programmet.
+Övervakningen utförs av Naturhistoriska riksmuseet.
+Data lagras i Sveriges Havsarkiv -databasen (SHARK) av Sveriges Meteorologiska och hydrologiska institut.
+
+Övervakning av sälar utförs genom att räkna sälar från land, fartyg eller flygplan.
+
+Mer information finns på svenska på https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och-havsorn.html
+
+====================================================
+From YAML-file: dcat_ap_se/physicalchemical.yaml
+====================================================
+
+TITLE(en):
+SHARK – National monitoring of Physical and Chemical parameters in Sweden since 1893
+
+DESCRIPTION(en):
+TODO
+
+TITLE(sv):
+TODO
+
+DESCRIPTION(sv):
+TODO
+
+====================================================
+From YAML-file: dcat_ap_se/phytoplankton_nat.yaml
+====================================================
+
+TITLE(en):
+SHARK - National phytoplankton monitoring in Sweden since 1983
+
+DESCRIPTION(en):
+Phytolankton have been monitored in Sweden since 1983.
+The national monitoring program was initiated by the Swedish Environmental Protection Agency and is now financed by the Swedish Agency for Marine and Water Management.
+Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University.
+Data are stored in the Swedish Ocean Archive database (SHARK), by the Swedish Meteorological and Hydrological Institute. 
+Data are collected and analyzed according to the HELCOM COMBINE Manual - Part C Annex C6 Monitoring of phytoplankton species composition, abundance and biomass (https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition-abundance-and-biomass.pdf) or similar methods.
+In short, analysis of phytoplankton species composition, abundance and biomass is carried out for the following purposes
+• to describe temporal trends in phytoplankton species composition, phytoplankton abundance, biomass as well as the intensity and occurrence of blooms
+• to describe the spatial distribution of phytoplankton species
+• to identify key phytoplankton species (e.g. dominating, harmful, potential non-indigenous and/or invasive species, as well as indicator species)
+• to provide basic data for complex ecosystem analyses, food web studies, modelling as well as political and social requirements such as indicators in the frame of the Marine Strategy Framework Directive of the European Union (MSFD; European Union 2008) and the EU Water Framework Directive (WFD; European Union 2000) (HELCOM COMBINE Manual https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition- abundance-and-biomass.pdf) 
+
+Information about the program and the methods are also available in Swedish at https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vaxtplankton.html
+
+TITLE(sv):
+SHARK – Nationell övervakning av växtplankton i Sverige sedan 1983
+
+DESCRIPTION(sv):
+Växtplankton har övervakats i Sverige sedan 1983.
+Det nationella övervakningsprogrammet initierades av Naturvårdsverket och finansieras nu av Havs- och vattenmyndigheten.
+
+Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet. Data lagras i Sveriges Havsarkiv -databasen (SHARK) av Sveriges Meteorologiska och hydrologiska institut.
+Data samlas in och analyseras enligt HELCOM COMBINE Manual-Del C Bilaga C6 Övervakning av växtplanktons arters sammansättning, överflöd och biomassa https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition-overflod-och-biomassa.pdf) eller enligt liknande metoder.
+Kort sagt, analys av växtplanktons artkomposition, populationsstorlek och biomassa utförs för följande ändamål
+• att beskriva tidsmässiga trender i växtplanktons artkomposition, växtplanktons populationsstorlek, biomassa samt intensiteten och förekomsten av blomningar
+• att beskriva den geografiska fördelningen av växtplanktonarter
+• att identifiera viktiga växtplanktonarter (t.ex. dominerande, skadliga, potentiella icke inhemska och/eller invasiva arter samt indikatorarter)
+• att tillhandahålla grundläggande data för komplexa ekosystemanalyser, analyser av näringskedjor, modellering. Data ska även tillhandahållas för politiska och sociala krav såsom indikatorer inom ramen för ramdirektivet om marin strategi i Europeiska unionen (MSFD; Europeiska 2008) och EU: s ramdirektiv för vatten (WFD; Europeiska unionen 2000) (HELCOM COMBINE Manual https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition-abundance-and-biomass .pdf)
+
+Information om programmet och metoderna finns också på svenska på https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vaxtplankton.html 
+
+====================================================
+From YAML-file: dcat_ap_se/phytoplankton_reg_recip_proj.yaml
+====================================================
+
+TITLE(en):
+SHARK - Regional monitoring, recipient control and monitoring projects of phytoplankton in Sweden since 1985
+
+DESCRIPTION(en):
+Phytolankton have been regionally monitored in Sweden since 1985.
+The monitoring is financed by the Swedish county administration boards, Swedish municipalities and Swedish coalitions of water conservation. Recipient control data financed by companies are also included.
+
+Monitoring is performed by Swedish universities and consulting firms. Data are stored in the Swedish Ocean Archive database (SHARK), by the Swedish Meteorological and Hydrological Institute. 
+
+Data are collected and analyzed according to the HELCOM COMBINE Manual - Part C Annex C6 Monitoring of phytoplankton species composition, abundance and biomass  (https://www.helcom.fi/wp- content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition- abundance-and-biomass.pdf) or similar methods.
+In short, analysis of phytoplankton species composition, abundance and biomass is carried out for the following purposes - to describe temporal trends in phytoplankton species composition, phytoplankton abundance, biomass as well as the intensity and occurrence of blooms - to describe the spatial distribution of phytoplankton species - to identify key phytoplankton species (e.g. dominating, harmful, potential non-indigenous and/or invasive species, as well as indicator species) - to provide basic data for complex ecosystem analyses, food web studies, modelling as well as political and social requirements such as indicators in the frame of the Marine Strategy Framework Directive of the European Union (MSFD; European Union 2008) and the EU Water Framework Directive (WFD; European Union 2000) (HELCOM COMBINE Manual https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition- abundance-and-biomass.pdf)
+
+Information about the program and the methods are also available in Swedish at https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/marin-miljoovervakning/vaxtplankton-bakterieplankton-och-blomning.html
+
+TITLE(sv):
+SHARK – Regional övervakning, recipientkontroll samt andra övervakningsprojekt av växtplankton sedan 1985
+
+DESCRIPTION(sv):
+Växtplankton har övervakats regionalt i Sverige sedan 1985.
+Övervakningen finansieras av länsstyrelserna, svenska kommuner och svenska vattenvårdsförbund. Recipientkontrolldata som finansieras av företag ingår i datatypen.
+
+Övervakningen utförs av svenska universitet och konsultföretag. Data lagras i Sveriges Havsarkiv -databasen (SHARK) av Sveriges Meteorologiska och hydrologiska institut. 
+
+Data samlas in och analyseras enligt HELCOM COMBINE Manual-Del C Bilaga C6 Övervakning av växtplanktons artkomposition, överflöd och biomassa (https://www.helcom.fi/wp- content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition- overflod- och-biomassa.pdf) eller enligt metoder som liknar dessa. 
+Kort sagt, analys av växtplanktons artkomposition, överflöd och biomassa utförs för följande ändamål: - för att beskriva tidsmässiga trender i växtplanktons artkomposition, växtplanktons överflöd, biomassa samt intensiteten och förekomsten av blomningar - att beskriva den geografiska fördelningen av växtplanktonarter - att identifiera viktiga växtplanktonarter (t.ex. dominerande, skadliga, potentiella icke- inhemska och/eller invasiva arter samt indikatorarter) - att tillhandahålla grundläggande data för komplexa ekosystemanalyser, livsmedelswebbstudier, modellering samt politiska och sociala krav såsom indikatorer inom ramen för ramdirektivet för marin strategi i Europeiska unionen (MSFD; Europeiska unionen 2008) och EU: s ramdirektiv för vatten  (WFD; Europeiska unionen 2000) (HELCOM COMBINE Manual https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition-abundance-and-biomass. pdf)
+
+Information om programmet och metoderna finns också på svenska på  https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/marin-miljoovervakning/vaxtplankton-bakterieplankton-och-blomning.html
+
+
+====================================================
+From YAML-file: dcat_ap_se/picoplankton.yaml
+====================================================
+
+TITLE(en):
+SHARK – National monitoring of Pico Plankton in Sweden since 2002
+
+DESCRIPTION(en):
+TODO
+
+TITLE(sv):
+TODO
+
+DESCRIPTION(sv):
+TODO
+
+====================================================
+From YAML-file: dcat_ap_se/planktonbarcoding_nat.yaml
+====================================================
+
+TITLE(en):
+SHARK – National monitoring of Plankton Barcoding in Sweden since 2013
+
+DESCRIPTION(en):
+TODO
+
+TITLE(sv):
+TODO
+
+DESCRIPTION(sv):
+TODO
+
+====================================================
+From YAML-file: dcat_ap_se/primaryproduction.yaml
+====================================================
+
+TITLE(en):
+SHARK – National monitoring of Primary Production in Sweden since 1979
+
+DESCRIPTION(en):
+TODO
+
+TITLE(sv):
+TODO
+
+DESCRIPTION(sv):
+TODO
+
+====================================================
+From YAML-file: dcat_ap_se/profile.yaml
+====================================================
+
+TITLE(en):
+SHARK - National Profile monitoring in Sweden since 2018
+
+DESCRIPTION(en):
+TODO
+
+TITLE(sv):
+TODO
+
+DESCRIPTION(sv):
+TODO
+
+====================================================
+From YAML-file: dcat_ap_se/ringedseal_nat.yaml
+====================================================
+
+TITLE(en):
+SHARK - National Ringed seal monitoring in Sweden since 1995
+
+DESCRIPTION(en):
+Data from the Swedish environmental monitoring program for Ringed seal.
+The monitoring program was initiated in 1995 by the Swedish Environmental Protection Agency and later the Swedish Agency for Marine and Water Management took over the responsibility and financing of the program.
+
+The monitoring is performed by the Swedish Museum of Natural History.
+Data is stored in the database SHARK, hosted and maintained by the Swedish Meteorological and Hydrological Institute.
+
+Monitoring of Ringed seal is performed by counting seals in transects from airplane.
+
+More information is available in Swedish at https://www.havochvatten.se/hav/samordning-- fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och- havsorn.html
+
+TITLE(sv):
+SHARK – Nationell övervakning av vikare i Sverige sedan 1995
+
+DESCRIPTION(sv):
+Data från det svenska miljöövervakningsprogrammet för vikare.
+Övervakningsprogrammet initierades 1995 av Naturvårdsverket. Senare tog Havs- och vattenmyndigheten över ansvaret och finansieringen av programmet.
+
+Övervakningen utförs av Naturhistoriska riksmuseet. Data lagras i Svenskt Havsarkiv (SHARK) av Sveriges Meteorologiska och hydrologiska institut.
+
+Övervakning av vikare görs genom att räkna sälar i transekter från flygplan.
+
+Mer information finns på svenska på https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och- havsorn.html
+
+
+====================================================
+From YAML-file: dcat_ap_se/sealpathology.yaml
+====================================================
+
+TITLE(en):
+SHARK - National monitoring of Seal Pathology in Sweden since 2008
+
+DESCRIPTION(en):
+Parameters measured in the dataset: - Adreno cort-hyperplasia class -Age - Arteriosclerosis class -Autolysis class - Blubber thickness - Body length - Body weigth - Claw lesions class - Cronic cholangiohepatitis -Intestinal ulcer class -Pneumonia - Regional skin changes class -Uterus pregnant - Uterus stenosis occlusion -Uterus tumour
+
+TITLE(sv):
+TODO
+
+DESCRIPTION(sv):
+TODO
+
+====================================================
+From YAML-file: dcat_ap_se/sedimentation.yaml
+====================================================
+
+TITLE(en):
+SHARK - National sedimentation monitoring in Sweden since 1982
+
+DESCRIPTION(en):
+Sedimentation has been monitored in Sweden since 1982
+The national monitoring program was initiated by Swedish Environmental Protection Agency and is now financed by the Swedish Agency for Marine and Water Management.
+
+Monitoring is performed by Stockholms universitet och Umeå universitet.
+Data lagras i Svenska havsarkivets databas (SHARK), av Sveriges meteorologiska och hydrologiska institut.
+
+Information om programmet och metoderna finns på svenska på  https://www.havochvatten.se/download/18.2a9deb63158cebbd2b450e2e/1481204947503/sedimentationkustohav.pdf
+
+TITLE(sv):
+SHARK – Nationell övervakning av sedimentation i Sverige sedan 1982
+
+DESCRIPTION(sv):
+Sedimentation har övervakats i Sverige sedan 1982
+Det nationella övervakningsprogrammet initierades av Naturvårdsverket och finansieras nu av  Havs- och vattenmyndigheten. Övervakning utförs av Stockholms universitet och Umeå universitet.
+
+Data lagras i Svenska havsarkivets databas (SHARK), av Sveriges meteorologiska och hydrologiska institut.
+
+Mesozooplankton utgör en viktig del av djurplankton i de pelagiska näringsnäten, eftersom dessa är de organismer som representerar länken mellan primärproducenter (växtplankton) och högre trofiska nivåer (zooplankätande)
+
+Information om programmet och metoderna finns på svenska på  https://www.havochvatten.se/download/18.2a9deb63158cebbd2b450e2e/1481204947503/sedimentationkustohav.pdf
+
+====================================================
+From YAML-file: dcat_ap_se/zoobenthos_nat.yaml
+====================================================
+
+TITLE(en):
+SHARK - National zoobenthos monitoring in Sweden since 1971
+
+DESCRIPTION(en):
+Zoobenthos have been monitored in Sweden since 1971.
+The national monitoring program was initiated by the Swedish Environmental Protection Agency and is now financed by the  Swedish Agency for Marine and Water Management.
+
+Monitoring is performed by Stockholm University, Gothenburg University, Umeå University and Linnaeus University. Data are stored in the Swedish Ocean Archive database (SHARK), by the Swedish Meteorological and Hydrological Institute.
+
+The purpose of the monitoring program is to detect long term and short term changes in the soft bottom macrozoobenthos (>1mm) communities. Changes in the macrofauna community can indicate changes in environmental threats like eutrophication, environmental toxins and climate change. Data are collected and analyzed according to Leonardsson K., 2004. (In Swedish) Metodbeskrivning för provtagning och analys av mjukbottenlevande makroevertebrater i marin miljö. Umeå universitet, Institutionen för ekologi och geovetenskap, 26 p (https://www.havochvatten.se/download/18.1690613b166605675de898f4/1539942622449/rapport-umu-metodbeskrivning-provtagning-analys-mjukbottenlevande-makroevertebrater-i-marin-miljo.pdf) or similar methods. Information about the program and the methods are available in Swedish at https://www.havochvatten.se/hav/vagledning--lagar/vagledningar/ovriga- vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/mjukbottenlevande- makrofauna-trend--och-omradesovervakning.html and https://www.havochvatten.se/hav/vagledning--lagar/vagledningar/ovriga- vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/sediment--- basundersokning.html
+
+TITLE(sv):
+SHARK – Nationell övervakning av zoobenthos i Sverige sedan 1971
+
+DESCRIPTION(sv):
+Zoobenthos har övervakats i Sverige sedan 1971.
+Det nationella övervakningsprogrammet initierades av Naturvårdsverket och finansieras nu av  Havs- och vattenmyndigheten.
+
+Övervakning utförs av Stockholms universitet, Göteborgs universitet, Umeå universitet och Linnéuniversitetet.
+Data lagras i svenska havsarkivets databas (SHARK), av Sveriges meteorologiska och hydrologiska institut.
+
+Syftet med övervakningsprogrammet är att upptäcka långsiktiga och kortsiktiga förändringar i mjukbottnarnas makrozoobentos (>1 mm) samhällen. Förändringar i makrofaunasamhället kan indikera förändringar i miljöhot som eutrofiering, miljögifter och klimatförändringar. 
+
+Data samlas in och analyseras enligt Leonardsson K., 2004. Metodbeskrivning för provtagning och analys av mjukbottenlevande makroevertebrater i marin miljö. Umeå universitet, Institutionen för ekologi och geovetenskap, 26 sid (https://www.havochvatten.se/download/18.1690613b166605675de898f4/1539942622449/rapport-umu-metodbeskrivning-provtagning-analys-mjukbottenlevande-makroevertebrater-i-marin-miljo.pdf) eller liknande metoder. Information om programmet och metoderna finns på svenska på https://www.havochvatten.se/hav/vagledning--lagar/vagledningar/ovriga- vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/mjukbottenlevande- makrofauna-trend--och-omradesovervakning.html och https://www. havochvatten.se/hav/vagledning--lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for- miljoovervakning/undersokningstyper/sediment---basundersokning.html
+
+
+====================================================
+From YAML-file: dcat_ap_se/zoobenthos_reg_recip_proj.yaml
+====================================================
+
+TITLE(en):
+SHARK - Regional monitoring, recipient control and monitoring projects of zoobenthos in Sweden since 1972
+
+DESCRIPTION(en):
+Zoobenthos have been regionally monitored in Sweden since 1972.
+The monitoring is financed by the Swedish county administration boards, Swedish municipalities, Swedish coalitions of water conservation and Swedish companies. Recipient control data financed by companies are also included.
+
+Monitoring is performed by Swedish universities, agencies and consulting firms.
+Data are stored in the Swedish Ocean Archive database (SHARK), by the Swedish Meteorological and Hydrological Institute.
+The purpose of the monitoring program is to detect long term and short term changes in the soft bottom macrozoobenthos (>1mm) communities. Changes in the macrofauna community can indicate changes in environmental threats like eutrophication, environmental toxins and climate change.
+
+Data are collected and analyzed according to Leonardsson K., 2004. (In Swedish) Metodbeskrivning för provtagning och analys av mjukbottenlevande makroevertebrater i marin miljö. Umeå universitet, Institutionen för ekologi och geovetenskap, 26 p (https://www.havochvatten.se/download/18.1690613b166605675de898f4/1539942622449/rapport-umu-metodbeskrivning-provtagning-analys-mjukbottenlevande-makroevertebrater-i-marin- miljo.pdf) or similar methods.
+
+Information about the program and the methods are available in Swedish at https://www.havochvatten.se/download/18.2a9deb63158cebbd2b450dd5/1481269871386/mjukbottenmakrofaunatrendovervakningkustohav.pdf and https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/sediment---basundersokning.html
+
+TITLE(sv):
+SHARK – Regional övervakning, recipientkontroll samt andra övervakningsprojekt av bottendjur i Sverige sedan 1972
+
+DESCRIPTION(sv):
+Zoobenthos har övervakats regionalt i Sverige sedan 1972.
+Övervakningen finansieras av de svenska länsstyrelserna, svenska kommuner, svenska vattenvårdsföreningar och svenska företag. Även data från recipientkontroll som är finansierade av företag ingår i detta dataset.
+
+Uppföljning utförs av svenska universitet, myndigheter och konsultföretag.
+Data lagras i Svenska havsarkivets databas (SHARK), av Sveriges meteorologiska och hydrologiska institut.
+
+Syftet med övervakningsprogrammet är att upptäcka långsiktiga och kortsiktiga förändringar i mjukbottnarnas makrozoobentos (>1 mm) samhällen. Förändringar i makrofaunasamhället kan indikera förändringar i miljöhot som eutrofiering, miljögifter och klimatförändringar.
+
+Data samlas in och analyseras enligt Leonardsson K., 2004. (In Swedish) Metodbeskrivning för provtagning och analys av mjukbottenlevande makroevertebrater i marin miljö. Umeå universitet, Institutionen för ekologi och geovetenskap, 26 s (https://www.havochvatten.se/download/18.1690613b166605675de898f4/1539942622449/rapport-umu-metodbeskrivning-provtagning-analys-mjukbottenmilter-jo-itrovertebratagning-mjukbottenmilter-jo.) eller liknande metoder.
+
+Information om programmet och metoderna finns på svenska på https://www.havochvatten.se/download/18.2a9deb63158cebbd2b450dd5/1481269871386/mjukbottenmakrofaunatrendovervakningkustohav.pdf och https://www.havochlagforarevatten.se/-vagochledning-/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/sediment---basundersokning.html
+
+
+====================================================
+From YAML-file: dcat_ap_se/zooplankton_nat.yaml
+====================================================
+
+TITLE(en):
+SHARK - National zooplankton monitoring in Sweden since 1979
+
+DESCRIPTION(en):
+Zooplankton have been monitored in Sweden since 1979.
+The national monitoring program was initiated by the Swedish Environmental Protection Agency and is now financed by the Swedish Agency for Marine and Water Management.
+
+Monitoring is performed by Stockholm University, Umeå University, Swedish Meteorological and Hydrological Institute and Gothenburg University.
+Data are stored in the Swedish Ocean Archive database (SHARK), by the Swedish Meteorological and Hydrological Institute.
+Data are collected and analyzed according to the HELCOM COMBINE Manual - Part C Annex C7 Mesozooplankton (https://helcom.fi/media/publications/Guidelines-for-monitoring-of-mesozooplankton.pdf) or similar methods.
+Mesozooplankton constitute an important part of zooplankton in the pelagic food webs, since these are the organisms representing the link between primary producers (phytoplankton) and higher trophic levels (zooplanktivorous fish and invertebrates).[...] The sampling of mesozooplankton serves [...] to describe the species composition and the spatial distribution of mesozooplankton abundance and biomass (HELCOM COMBINE Manual https://helcom.fi/media/publications/Guidelines-for-monitoring-of-mesozooplankton.pdf).
+
+Information about the program and the methods are also available in Swedish at https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/djurplankton-trend--och-omradesovervakning.html
+
+TITLE(sv):
+SHARK – Nationell övervakning av djurplankton i Sverige sedan 1979
+
+DESCRIPTION(sv):
+Zooplankton har övervakats i Sverige sedan 1979.
+Det nationella övervakningsprogrammet initierades av Naturvårdsverket och finansieras nu av  Havs- och vattenmyndigheten.
+
+Övervakning utförs av Stockholms universitet, Umeå universitet, Sveriges meteorologiska och hydrologiska institut och Göteborgs universitet.
+Data lagras i Svenska havsarkivets databas (SHARK), av Sveriges meteorologiska och hydrologiska institut.
+Data samlas in och analyseras enligt HELCOM COMBINE Manual - Del C Annex C7 Mesozooplankton (https://helcom.fi/media/publications/Guidelines-for-monitoring-of-mesozooplankton.pdf) eller liknande metoder. fiskar och ryggradslösa djur).[...] Provtagningen av mesozooplankton tjänar [...] till att beskriva artsammansättningen och den rumsliga fördelningen av mesozooplankton överflöd och biomassa (HELCOM COMBINE Manual https://helcom.fi/media/publications/Guidelines-for-monitoring-of-mesozooplankton.pdf).
+
+Information om programmet och metoderna finns även på svenska på https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/djurplankton-trend--och-omradesovervakning.html
+
