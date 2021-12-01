@@ -1,0 +1,22 @@
+dataset: 
+
+    title:
+        en: >
+            SHARK - National monitoring of Seal Pathology in Sweden since 2008
+        sv: >
+            TODO
+
+    description:
+        en: >
+            Parameters measured in the dataset:
+            - Adreno cort-hyperplasia class -Age
+            - Arteriosclerosis class -Autolysis class
+            - Blubber thickness
+            - Body length
+            - Body weigth
+            - Claw lesions class
+            - Cronic cholangiohepatitis -Intestinal ulcer class -Pneumonia
+            - Regional skin changes class -Uterus pregnant
+            - Uterus stenosis occlusion -Uterus tumour
+        sv: >
+            TODO

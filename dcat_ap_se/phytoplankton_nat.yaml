@@ -1,0 +1,66 @@
+dataset: 
+
+    title:
+        en: >
+            SHARK - National phytoplankton monitoring in Sweden since 1983
+        sv: >
+            SHARK – Nationell övervakning av växtplankton i Sverige sedan 1983
+
+    description:
+        en: >
+            Phytolankton have been monitored in Sweden since 1983.
+
+            The national monitoring program was initiated by the Swedish Environmental Protection Agency and is now financed by the
+            Swedish Agency for Marine and Water Management.
+
+            Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute,
+            Gothenburg University and Umeå University.
+
+            Data are stored in the Swedish Ocean Archive database (SHARK), by the Swedish Meteorological and Hydrological Institute. 
+
+            Data are collected and analyzed according to the
+            HELCOM COMBINE Manual - Part C Annex C6 Monitoring of phytoplankton species composition, abundance and biomass
+            (https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition-abundance-and-biomass.pdf) or similar methods.
+
+            In short, analysis of phytoplankton species composition, abundance and biomass is carried out for the following purposes
+
+            • to describe temporal trends in phytoplankton species composition, phytoplankton abundance, biomass as well as the intensity and occurrence of blooms
+
+            • to describe the spatial distribution of phytoplankton species
+
+            • to identify key phytoplankton species (e.g. dominating, harmful, potential non-indigenous and/or invasive species, as well as indicator species)
+
+            • to provide basic data for complex ecosystem analyses, food web studies, modelling as well as political and social requirements such as indicators in the frame of the Marine Strategy Framework Directive of the European Union (MSFD; European Union 2008) and the EU Water Framework Directive (WFD; European Union 2000)
+            (HELCOM COMBINE Manual https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition- abundance-and-biomass.pdf) 
+
+
+            Information about the program and the methods are also available in Swedish at
+            https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vaxtplankton.html
+        sv: >
+            Växtplankton har övervakats i Sverige sedan 1983.
+
+            Det nationella övervakningsprogrammet initierades av Naturvårdsverket och finansieras nu av Havs- och vattenmyndigheten.
+
+
+            Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
+            Data lagras i Sveriges Havsarkiv -databasen (SHARK) av Sveriges Meteorologiska och hydrologiska institut.
+            
+            Data samlas in och analyseras enligt HELCOM COMBINE Manual-Del C Bilaga C6 Övervakning av växtplanktons arters sammansättning, överflöd och biomassa
+            https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition-overflod-och-biomassa.pdf)
+            eller enligt liknande metoder.
+
+            Kort sagt, analys av växtplanktons artkomposition, populationsstorlek och biomassa utförs för följande ändamål
+
+            • att beskriva tidsmässiga trender i växtplanktons artkomposition, växtplanktons populationsstorlek, biomassa samt intensiteten och förekomsten av blomningar
+
+            • att beskriva den geografiska fördelningen av växtplanktonarter
+
+            • att identifiera viktiga växtplanktonarter (t.ex. dominerande, skadliga, potentiella icke inhemska och/eller invasiva arter samt indikatorarter)
+
+            • att tillhandahålla grundläggande data för komplexa ekosystemanalyser, analyser av näringskedjor, modellering.
+            Data ska även tillhandahållas för politiska och sociala krav såsom indikatorer inom ramen för ramdirektivet om marin strategi i
+            Europeiska unionen (MSFD; Europeiska 2008) och EU: s ramdirektiv för vatten (WFD; Europeiska unionen 2000) (HELCOM COMBINE Manual https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition-abundance-and-biomass .pdf)
+
+
+            Information om programmet och metoderna finns också på svenska på
+            https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vaxtplankton.html 

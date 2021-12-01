@@ -1,0 +1,41 @@
+dataset: 
+
+    title:
+        en: >
+            SHARK - National Ringed seal monitoring in Sweden since 1995
+        sv: >
+            SHARK – Nationell övervakning av vikare i Sverige sedan 1995
+
+    description:
+        en: >
+            Data from the Swedish environmental monitoring program for Ringed seal.
+
+            The monitoring program was initiated in 1995 by the Swedish Environmental Protection Agency and later the
+            Swedish Agency for Marine and Water Management took over the responsibility and financing of the program.
+
+
+            The monitoring is performed by the Swedish Museum of Natural History.
+
+            Data is stored in the database SHARK, hosted and maintained by the Swedish Meteorological and Hydrological Institute.
+
+
+            Monitoring of Ringed seal is performed by counting seals in transects from airplane.
+
+            
+            More information is available in Swedish at https://www.havochvatten.se/hav/samordning-- fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och- havsorn.html
+        sv: >
+            Data från det svenska miljöövervakningsprogrammet för vikare.
+
+            Övervakningsprogrammet initierades 1995 av Naturvårdsverket. Senare tog
+            Havs- och vattenmyndigheten över ansvaret och finansieringen av programmet.
+
+
+            Övervakningen utförs av Naturhistoriska riksmuseet.
+            Data lagras i Svenskt Havsarkiv (SHARK) av Sveriges Meteorologiska och hydrologiska institut.
+
+
+            Övervakning av vikare görs genom att räkna sälar i transekter från flygplan.
+
+
+            Mer information finns på svenska på
+            https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och- havsorn.html

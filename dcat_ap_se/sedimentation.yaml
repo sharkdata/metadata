@@ -1,0 +1,41 @@
+dataset: 
+
+    title:
+        en: >
+            SHARK - National sedimentation monitoring in Sweden since 1982
+        sv: >
+            SHARK – Nationell övervakning av sedimentation i Sverige sedan 1982
+
+    description:
+        en: >
+            Sedimentation has been monitored in Sweden since 1982
+
+            The national monitoring program was initiated by Swedish Environmental Protection Agency and is now financed by the
+            Swedish Agency for Marine and Water Management.
+            
+
+            Monitoring is performed by Stockholms universitet och Umeå universitet.
+
+            Data lagras i Svenska havsarkivets databas (SHARK), av Sveriges meteorologiska och hydrologiska institut.
+
+
+            Information om programmet och metoderna finns på svenska på 
+            https://www.havochvatten.se/download/18.2a9deb63158cebbd2b450e2e/1481204947503/sedimentationkustohav.pdf
+
+        sv: >
+            Sedimentation har övervakats i Sverige sedan 1982
+
+            Det nationella övervakningsprogrammet initierades av Naturvårdsverket och finansieras nu av 
+            Havs- och vattenmyndigheten. Övervakning utförs av Stockholms universitet och Umeå universitet.
+
+
+            Data lagras i Svenska havsarkivets databas (SHARK), av Sveriges meteorologiska och hydrologiska institut.
+
+
+            Mesozooplankton utgör en viktig del av djurplankton i de pelagiska näringsnäten, eftersom
+            dessa är de organismer som representerar länken mellan primärproducenter (växtplankton) och
+            högre trofiska nivåer (zooplankätande)
+
+
+            Information om programmet och metoderna finns på svenska på 
+            https://www.havochvatten.se/download/18.2a9deb63158cebbd2b450e2e/1481204947503/sedimentationkustohav.pdf

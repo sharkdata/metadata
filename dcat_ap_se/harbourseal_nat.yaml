@@ -1,0 +1,42 @@
+dataset: 
+
+    title:
+        en: >
+            SHARK - National Harbour seal monitoring in Sweden since 1988
+        sv: >
+            SHARK – Nationell övervakning av Knubbsäl i Sverige sedan 1988
+
+    description:
+        en: >
+            Data from the Swedish environmental monitoring program for Harbour seal.
+
+            The monitoring program was initiated in 1988 by the Swedish Environmental Protection Agency and later the
+            Swedish Agency for Marine and Water Management took over the responsibility and financing of the program.
+
+
+            The monitoring is performed by the Swedish Museum of Natural History.
+
+            Data is stored in the database SHARK, hosted and maintained by the Swedish Meteorological and Hydrological Institute.
+
+
+            Monitoring of seals is performed by counting seals from land, ship or airplane.
+
+
+            More information is available in Swedish at 
+            https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och-havsorn.html
+        sv: >
+            Data från det svenska miljöövervakningsprogrammet för knubbsäl.
+
+            Övervakningsprogrammet initierades 1988 av Naturvårdsverket och senare tog
+            Havs-och vattenmyndigheten över ansvaret och finansieringen av programmet.
+
+            Övervakningen utförs av Naturhistoriska riksmuseet.
+
+            Data lagras i Sveriges Havsarkiv -databasen (SHARK) av Sveriges Meteorologiska och hydrologiska institut.
+
+
+            Övervakning av sälar utförs genom att räkna sälar från land, fartyg eller flygplan.
+
+            
+            Mer information finns på svenska på
+            https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och-havsorn.html

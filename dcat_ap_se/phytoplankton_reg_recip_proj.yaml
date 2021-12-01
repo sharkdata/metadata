@@ -1,0 +1,61 @@
+dataset: 
+
+    title:
+        en: >
+            SHARK - Regional monitoring, recipient control and monitoring projects of phytoplankton in Sweden since 1985
+        sv: >
+            SHARK – Regional övervakning, recipientkontroll samt andra övervakningsprojekt av växtplankton sedan 1985
+
+    description:
+        en: >
+            Phytolankton have been regionally monitored in Sweden since 1985.
+
+            The monitoring is financed by the Swedish county administration boards,
+            Swedish municipalities and Swedish coalitions of water conservation.
+            Recipient control data financed by companies are also included.
+
+
+            Monitoring is performed by Swedish universities and consulting firms.
+            Data are stored in the Swedish Ocean Archive database (SHARK), by the
+            Swedish Meteorological and Hydrological Institute. 
+            
+
+            Data are collected and analyzed according to the
+            HELCOM COMBINE Manual - Part C Annex C6 Monitoring of phytoplankton species composition, abundance and biomass 
+            (https://www.helcom.fi/wp- content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition- abundance-and-biomass.pdf) or similar methods.
+
+            In short, analysis of phytoplankton species composition, abundance and biomass is carried out for the following purposes
+            - to describe temporal trends in phytoplankton species composition, phytoplankton abundance, biomass as well as the intensity and occurrence of blooms
+            - to describe the spatial distribution of phytoplankton species
+            - to identify key phytoplankton species (e.g. dominating, harmful, potential non-indigenous and/or invasive species, as well as indicator species)
+            - to provide basic data for complex ecosystem analyses, food web studies, modelling as well as political and social requirements such as indicators in the frame of the
+            Marine Strategy Framework Directive of the European Union (MSFD; European Union 2008) and the EU Water Framework Directive (WFD; European Union 2000)
+            (HELCOM COMBINE Manual https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition- abundance-and-biomass.pdf)
+
+
+            Information about the program and the methods are also available in Swedish at
+            https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/marin-miljoovervakning/vaxtplankton-bakterieplankton-och-blomning.html
+        sv: >
+            Växtplankton har övervakats regionalt i Sverige sedan 1985.
+
+            Övervakningen finansieras av länsstyrelserna, svenska kommuner och svenska vattenvårdsförbund. Recipientkontrolldata som finansieras av företag ingår i datatypen.
+
+
+            Övervakningen utförs av svenska universitet och konsultföretag.
+            Data lagras i Sveriges Havsarkiv -databasen (SHARK) av Sveriges Meteorologiska och hydrologiska institut. 
+            
+            
+            Data samlas in och analyseras enligt HELCOM COMBINE Manual-Del C Bilaga C6 Övervakning av växtplanktons artkomposition, överflöd och biomassa
+            (https://www.helcom.fi/wp- content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition- overflod- och-biomassa.pdf) eller enligt metoder som liknar dessa. 
+
+            Kort sagt, analys av växtplanktons artkomposition, överflöd och biomassa utförs för följande ändamål:
+            - för att beskriva tidsmässiga trender i växtplanktons artkomposition, växtplanktons överflöd, biomassa samt intensiteten och förekomsten av blomningar
+            - att beskriva den geografiska fördelningen av växtplanktonarter
+            - att identifiera viktiga växtplanktonarter (t.ex. dominerande, skadliga, potentiella icke- inhemska och/eller invasiva arter samt indikatorarter)
+            - att tillhandahålla grundläggande data för komplexa ekosystemanalyser, livsmedelswebbstudier, modellering samt politiska och sociala krav såsom indikatorer inom ramen för ramdirektivet för marin strategi i
+            Europeiska unionen (MSFD; Europeiska unionen 2008) och EU: s ramdirektiv för vatten 
+            (WFD; Europeiska unionen 2000) (HELCOM COMBINE Manual https://www.helcom.fi/wp-content/uploads/2019/08/Guidelines-for-monitoring-phytoplankton-species-composition-abundance-and-biomass. pdf)
+
+
+            Information om programmet och metoderna finns också på svenska på 
+            https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/marin-miljoovervakning/vaxtplankton-bakterieplankton-och-blomning.html
