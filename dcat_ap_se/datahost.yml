@@ -1,0 +1,31 @@
+ description:
+    en: >
+      Data are stored in the Swedish Ocean Archive (SHARK) by the Swedish Meteorological and Hydrological Institute (SMHI).
+    sv: >
+      Data lagras i Svenskt HavsARKiv (SHARK) av Sveriges meteorologiska och hydrologiska institut (SMHI).
+  name:
+    en: > 
+      SHARK
+    sv: >
+      SHARK
+  fullname:
+    en: > 
+      Swedish Ocean Archive
+    sv: >
+      Svenskt HavsARKiv
+  email:
+    en: > 
+      shark@smhi.se
+    sv: >
+      shark@smhi.se
+  organization:
+    name:
+      en: > 
+        SMHI
+      sv: >
+        SMHI
+    fullname:
+      en: > 
+        Swedish Meteorological and Hydrological Institute
+      sv: >
+        Sveriges meteorologiska och hydrologiska institut

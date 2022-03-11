@@ -1,0 +1,101 @@
+NAT:
+    bacterioplankton:
+        en: >
+          Monitoring is performed by Umeå University.
+        sv: >
+          Övervakningen utförs av Umeå Universitet.
+    chlorophyll:
+        en: >
+          text
+        sv: >
+          text
+    epibenthos:
+        en: >
+          Monitoring is performed by Stockholm University, University of Gothenburg and Linnaeus University.
+        sv: >
+          Övervakningen utförs av Stockholms universitet, Göteborgs universitet och Linnéuniversitetet.
+    greyseal:
+        en: >
+          Monitoring is performed by the Swedish Museum of Natural History.
+        sv: >
+          Övervakningen utförs av Naturhistoriska riksmuseet.
+    harbourporpoise:
+        en: >
+          Monitoring is performed by the Swedish Museum of Natural History.
+        sv: >
+          Övervakningen utförs av Naturhistoriska riksmuseet.
+    harbourseal:
+        en: >
+          Monitoring is performed by the Swedish Museum of Natural History.
+        sv: >
+          Övervakningen utförs av Naturhistoriska riksmuseet.
+    phytoplankton:
+        en: >
+          Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University. 
+        sv: >
+          Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
+    picoplankton:
+        en: >
+          text
+        sv: >
+          text
+    primaryproduction:
+        en: >
+          text
+        sv: >
+          text
+    profile:
+        en: >
+          text
+        sv: >
+          text
+    ringedseal:
+        en: >
+          Monitoring is performed by the Swedish Museum of Natural History.
+        sv: >
+          Övervakningen utförs av Naturhistoriska riksmuseet.
+    sealpathology:
+        en: >
+          Monitoring is performed by the Swedish Museum of Natural History.
+        sv: >
+          Övervakningen utförs av Naturhistoriska riksmuseet.
+    sedimentation:
+        en: >
+          Monitoring is performed by Stockholm University och Umeå University.
+        sv: >
+          Övervakningen utförs av Stockholms universitet and Umeå universitet.
+    physicalchemcial:
+        en: >
+          text
+        sv: >
+          text
+    zoobenthos:
+        en: >
+          Monitoring is performed by Stockholm University, Gothenburg University, Umeå University and Linnaeus University.
+        sv: >
+          Övervakningen utförs av Stockholms universitet, Göteborgs universitet, Umeå universitet och Linnéuniversitetet.
+    zooplankton:
+        en: >
+          Monitoring is performed by Stockholm University, Umeå University, Swedish Meteorological and Hydrological Institute and Gothenburg University. 
+        sv: >
+          Övervakningen utförs av Stockholms universitet, Umeå universitet, Sveriges meteorologiska och hydrologiska institut och Göteborgs universitet.
+REG:
+    epibenthos:
+        en: >
+          Monitoring is performed by Swedish universities and consulting firms.
+        sv: >
+          Övervakningen utförs av svenska universitet och konsultföretag.
+reg_recip_proj:
+    phytoplankton:
+        en: >
+          Monitoring is performed by Swedish universities and consulting firms.
+        sv: >
+          Övervakningen utförs av svenska universitet och konsultföretag.
+    zoobenthos:
+        en: >
+          Monitoring is performed by Swedish universities, agencies and consulting firms.
+        sv: >
+          Övervakningen utförs av svenska universitet och konsultföretag.
+
+          
+        
