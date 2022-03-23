@@ -1,99 +1,98 @@
 NAT:
-    bacterioplankton:
-        en: >
-          SHARK - National marine environmental monitoring of Bacterioplankton in Sweden since 1989.
-        sv: >
-          SHARK - Nationell marin miljöövervakning av bakterioplankton sedan 1989.
-    chlorophyll:
-        en: >
-          SHARK - National marine environmental monitoring of Chlorophyll in Sweden since 1982.
-        sv: >
-          SHARK - Nationell övervakning av klorofyll i Sverige sedan 1982.
-    epibenthos:
-        en: >
-          SHARK - National marine environmental monitoring of Epibenthos in Sweden since 1992.
-        sv: >
-          SHARK - Nationell marin miljöövervakning av epibentos sedan 1992.
-    greyseal:
-        en: >
-          SHARK - National marine environmental monitoring of Grey seal in Sweden since 1989.
-        sv: >
-          SHARK - Nationell övervakning av gråsäl i Sverige sedan 1989.
-    harbourporpoise:
-        en: >
-          SHARK - National marine environmental monitoring of Harbour Porpoise in Sweden since 2011.
-        sv: >
-          SHARK - Nationell övervakning av tumlare i Sverige sedan 2011.
-    harbourseal:
-        en: >
-          SHARK - National marine environmental monitoring of Harbour seal in Sweden since 1988.
-        sv: >
-          SHARK - Nationell övervakning av knubbsäl i Sverige sedan 1988.
-    phytoplankton:
-        en: >
-          SHARK - National marine environmental monitoring of Phytoplankton in Sweden since 1983.
-        sv: >
-          SHARK - Nationell övervakning av växtplankton i Sverige sedan 1983.
-    picoplankton:
-        en: >
-          SHARK - National marine environmental monitoring of Pico Plankton in in Sweden since 2002.
-        sv: >
-          SHARK – Nationell övervakning av picoplankton i Sverige sedan 2002.
-    primaryproduction:
-        en: >
-          SHARK - National marine environmental monitoring of Primary production in Sweden since 1979.
-        sv: >
-          SHARK - Nationell övervakning av primärproduktion i Sverige sedan 1979.
-    profile:
-        en: >
-          SHARK - National marine environmental monitoring of various parameters in high resolution profiles in Sweden since 2018.
-        sv: >
-          SHARK - Nationell övervakning av flera olika parametrar från högupplösta profil i Sverige sedan 2018.
-    ringedseal:
-        en: >
-          SHARK - National marine environmental monitoring of Ringed seal in Sweden since 1995.
-        sv: >
-          SHARK - Nationell övervakning av vikare i Sverige sedan 1995.
-    sealpathology:
-        en: >
-          SHARK - National marine environmental monitoring of Seal pathology in Sweden since 1918.
-        sv: >
-          SHARK - Nationell övervakning av sälpatologi i Sverige sedan 2018.
-    sedimentation:
-        en: >
-          SHARK - National marine environmental monitoring of Sedimentation in Sweden since 1982.
-        sv: >
-          SHARK - Nationell övervakning av sedimentation i Sverige sedan 1982.
-    physicalchemcial:
-        en: >
-          SHARK - National marine environmental monitoring of Physical and Chemical parameters in Sweden since 1893.
-        sv: >
-          SHARK - Nationell övervakning av Fysiska och kemiska parametrar i Sverige sedan 1893.
-    zoobenthos:
-        en: >
-          SHARK - National marine environmental monitoring of Zoobenthos in in Sweden since 1971.
-        sv: >
-          SHARK - Nationell övervakning av zoobenthos i Sverige sedan 1971.
-    zooplankton:
-        en: >
-          SHARK - National marine environmental monitoring of zooplankton in Sweden since 1979.
-        sv: >
-          SHARK - Nationell marin miljöövervakning av djurplankton i Sverige sedan 1979.
+  bacterioplankton:
+    en: >
+      SHARK - National marine environmental monitoring of Bacterioplankton in Sweden since 1989.
+    sv: >
+      SHARK - Nationell marin miljöövervakning av bakterioplankton sedan 1989.
+  chlorophyll:
+    en: >
+      SHARK - National marine environmental monitoring of Chlorophyll in Sweden since 1982.
+    sv: >
+      SHARK - Nationell övervakning av klorofyll i Sverige sedan 1982.
+  epibenthos:
+    en: >
+      SHARK - National marine environmental monitoring of Epibenthos in Sweden since 1992.
+    sv: >
+      SHARK - Nationell marin miljöövervakning av epibentos sedan 1992.
+  greyseal:
+    en: >
+      SHARK - National environmental monitoring of Grey seal in Sweden since 1989.
+    sv: >
+      SHARK - Nationell övervakning av gråsäl i Sverige sedan 1989.
+  harbourporpoise:
+    en: >
+      SHARK - National environmental monitoring of Harbour Porpoise in Sweden since 2011.
+    sv: >
+      SHARK - Nationell övervakning av tumlare i Sverige sedan 2011.
+  harbourseal:
+    en: >
+      SHARK - National environmental monitoring of Harbour seal in Sweden since 1988.
+    sv: >
+      SHARK - Nationell övervakning av knubbsäl i Sverige sedan 1988.
+  phytoplankton:
+    en: >
+      SHARK - National marine environmental monitoring of Phytoplankton in Sweden since 1983.
+    sv: >
+      SHARK - Nationell övervakning av växtplankton i Sverige sedan 1983.
+  picoplankton:
+    en: >
+      SHARK - National marine environmental monitoring of Pico Plankton in in Sweden since 2002.
+    sv: >
+      SHARK – Nationell övervakning av picoplankton i Sverige sedan 2002.
+  primaryproduction:
+    en: >
+      SHARK - National marine environmental monitoring of Primary production in Sweden since 1979.
+    sv: >
+      SHARK - Nationell övervakning av primärproduktion i Sverige sedan 1979.
+  profile:
+    en: >
+      SHARK - National marine environmental monitoring of various parameters in high resolution profiles in Sweden since 2018.
+    sv: >
+      SHARK - Nationell övervakning av flera olika parametrar från högupplösta profil i Sverige sedan 2018.
+  ringedseal:
+    en: >
+      SHARK - National environmental monitoring of Ringed seal in Sweden since 1995.
+    sv: >
+      SHARK - Nationell övervakning av vikare i Sverige sedan 1995.
+  sealpathology:
+    en: >
+      SHARK - National environmental monitoring of Seal pathology in Sweden since 2008.
+    sv: >
+      SHARK - Nationell övervakning av sälpatologi i Sverige sedan 2008.
+  sedimentation:
+    en: >
+      SHARK - National marine environmental monitoring of Sedimentation in Sweden since 1982.
+    sv: >
+      SHARK - Nationell övervakning av sedimentation i Sverige sedan 1982.
+  physicalchemcial:
+    en: >
+      SHARK - National marine environmental monitoring of Physical and Chemical parameters in Sweden since 1893.
+    sv: >
+      SHARK - Nationell övervakning av Fysiska och kemiska parametrar i Sverige sedan 1893.
+  zoobenthos:
+    en: >
+      SHARK - National marine environmental monitoring of Zoobenthos in in Sweden since 1971.
+    sv: >
+      SHARK - Nationell övervakning av zoobenthos i Sverige sedan 1971.
+  zooplankton:
+    en: >
+      SHARK - National marine environmental monitoring of zooplankton in Sweden since 1979.
+    sv: >
+      SHARK - Nationell marin miljöövervakning av djurplankton i Sverige sedan 1979.
 REG:
-    epibenthos:
-        en: >
-          SHARK - Regional marine environmental monitoring and monitoring projects of Epibenthos in Sweden since 1994
-        sv: >
-          SHARK - Regional övervakning samt andra övervakningsprojekt av Epibentos i Sverige sedan 1994
+  epibenthos:
+    en: >
+      SHARK - Regional marine environmental monitoring and monitoring projects of Epibenthos in Sweden since 1994
+    sv: >
+      SHARK - Regional övervakning samt andra övervakningsprojekt av Epibentos i Sverige sedan 1994
 reg_recip_proj:
-    phytoplankton:
-        en: >
-          SHARK - Regional marine environmental monitoring, recipient control and monitoring projects of Phytoplankton in Sweden since 1985.
-        sv: >
-          SHARK - Regional övervakning, recipientkontroll samt andra övervakningsprojekt av växtplankton sedan 1985.
-    zoobenthos:
-        en: >
-          SHARK - Regional marine environmental monitoring, recipient control and monitoring project of Zoobenthos  in Sweden since 1972.
-        sv: >
-          SHARK - Regional övervakning, recipientkontroll samt andra övervakningsprojekt av bottendjur i Sverige sedan 1972.
-
+  phytoplankton:
+    en: >
+      SHARK - Regional marine environmental monitoring, recipient control and monitoring projects of Phytoplankton in Sweden since 1985.
+    sv: >
+      SHARK - Regional övervakning, recipientkontroll samt andra övervakningsprojekt av växtplankton sedan 1985.
+  zoobenthos:
+    en: >
+      SHARK - Regional marine environmental monitoring, recipient control and monitoring project of Zoobenthos  in Sweden since 1972.
+    sv: >
+      SHARK - Regional övervakning, recipientkontroll samt andra övervakningsprojekt av bottendjur i Sverige sedan 1972.
