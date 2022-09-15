@@ -1,31 +1,35 @@
- description:
+# Metadata for Swedish marine environmental monitoring datasets.
+# Repository: https://github.com/sharkdata/metadata
+---
+datahost:
+  description:
     en: >
       Data are stored in the Swedish Ocean Archive (SHARK) by the Swedish Meteorological and Hydrological Institute (SMHI).
     sv: >
       Data lagras i Svenskt HavsARKiv (SHARK) av Sveriges meteorologiska och hydrologiska institut (SMHI).
   name:
-    en: > 
+    en: >
       SHARK
     sv: >
       SHARK
   fullname:
-    en: > 
+    en: >
       Swedish Ocean Archive
     sv: >
       Svenskt HavsARKiv
   email:
-    en: > 
+    en: >
       shark@smhi.se
     sv: >
       shark@smhi.se
   organization:
     name:
-      en: > 
+      en: >
         SMHI
       sv: >
         SMHI
     fullname:
-      en: > 
+      en: >
         Swedish Meteorological and Hydrological Institute
       sv: >
         Sveriges meteorologiska och hydrologiska institut

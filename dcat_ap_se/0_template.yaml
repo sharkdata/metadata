@@ -1,15 +1,13 @@
+# Metadata for Swedish marine environmental monitoring datasets.
+# Repository: https://github.com/sharkdata/metadata
+---
+template:
+  title:
+    en: >
 
-dataset: 
+    sv: >
 
-    title:
-        en: >
-            
-        sv: >
-            
+  description:
+    en: >
 
-    description:
-        en: >
-            
-        sv: >
-            
-
+    sv: >

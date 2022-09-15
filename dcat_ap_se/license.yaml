@@ -1,6 +1,10 @@
-description:
-  en: >
-    text
-  sv: >
-    Data  följer licensvillkoren Creative commons CC0.
-    https://creativecommons.org/publicdomain/zero/1.0/deed.sv
+# Metadata for Swedish marine environmental monitoring datasets.
+# Repository: https://github.com/sharkdata/metadata
+---
+license:
+  description:
+    en: >
+      text
+    sv: >
+      Data  följer licensvillkoren Creative commons CC0.
+      https://creativecommons.org/publicdomain/zero/1.0/deed.sv
