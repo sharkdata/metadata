@@ -149,7 +149,7 @@ methods:
         text
       sv: >
         text
-  reg_recip_proj:
+  regRecipProj:
     phytoplankton:
       en: >
         Data should be sampled and analyzed according to the HELCOM COMBINE Manual
