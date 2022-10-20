@@ -40,7 +40,7 @@ titles:
         SHARK - Nationell övervakning av växtplankton i Sverige sedan 1983.
     picoplankton:
       en: >
-        SHARK - National marine environmental monitoring of Pico Plankton in in Sweden since 2002.
+        SHARK - National marine environmental monitoring of Pico Plankton in Sweden since 2002.
       sv: >
         SHARK – Nationell övervakning av picoplankton i Sverige sedan 2002.
     primaryproduction:
@@ -75,9 +75,11 @@ titles:
         SHARK - Nationell övervakning av Fysiska och kemiska parametrar i Sverige sedan 1893.
     zoobenthos:
       en: >
-        SHARK - National marine environmental monitoring of Zoobenthos in in Sweden since 1971.
+        SHARK - National marine environmental monitoring of Zoobenthos in Sweden since 1971.
       sv: >
         SHARK - Nationell övervakning av zoobenthos i Sverige sedan 1971.
+      urlPart: >
+        shark-national-marine-environmental-monitoring-of-zoobenthos-in-sweden-since-1971
     zooplankton:
       en: >
         SHARK - National marine environmental monitoring of zooplankton in Sweden since 1979.
@@ -89,7 +91,7 @@ titles:
         SHARK - Regional marine environmental monitoring and monitoring projects of Epibenthos in Sweden since 1994
       sv: >
         SHARK - Regional övervakning samt andra övervakningsprojekt av Epibentos i Sverige sedan 1994
-  reg_recip_proj:
+  regRecipProj:
     phytoplankton:
       en: >
         SHARK - Regional marine environmental monitoring, recipient control and monitoring projects of Phytoplankton in Sweden since 1985.
