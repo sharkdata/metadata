@@ -1,0 +1,32 @@
+url:
+  NAT:
+    default:
+      en:
+        url: >
+          ["www.sharkweb.smhi.se"]
+        description: >
+          ["SHARKweb is the Swedish Ocean Archive webapplication for access to marine monitoring data."]
+        title: >
+          ["SHARKweb"]
+      sv:
+        url: >
+          ["www.sharkweb.smhi.se"]
+        description: >
+          ["SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."]
+        title: >
+          ["SHARKweb"]
+  zoobenthos:
+      en:
+        url: >
+          ["www.sharkweb.smhi.se", "https://www.gbif.se/ipt/resource?r=smhi-zoobenthos-nat "]
+        description: >
+          ["SHARKweb is the Swedish Ocean Archive webapplication for access to marine monitoring data.","Global Biodiversity Information Facility GBIF-Sweden"]
+        title: >
+          ["SHARKweb", "GBIF ipt"]
+      sv:
+        url: >
+          ["www.sharkweb.smhi.se", "https://www.gbif.se/ipt/resource?r=smhi-zoobenthos-nat "]
+        description: >
+          ["SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data.","Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald "]
+        title: >
+          ["SHARKweb", "GBIF ipt"]
