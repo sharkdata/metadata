@@ -83,6 +83,11 @@ laboratory:
         Monitoring is performed by Stockholm University, Umeå University, Swedish Meteorological and Hydrological Institute and Gothenburg University.
       sv: >
         Övervakningen utförs av Stockholms universitet, Umeå universitet, Sveriges meteorologiska och hydrologiska institut och Göteborgs universitet.
+    Jellyfish:
+      en: >
+        text
+      sv: >
+        text
   REG:
     epibenthos:
       en: >
