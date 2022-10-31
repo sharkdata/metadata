@@ -21,9 +21,11 @@ methods:
         https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/bakteriell-syrekonsumtion.html
     chlorophyll:
       en: >
-        text https://helcom.fi/wp-content/uploads/2019/08/Guidelines-for-measuring-chlorophyll-a.pdf
+        Data should be sampled and analyzed according to the HELCOM Guidelines for Measuring Chlorophyll a 
+        https://helcom.fi/wp-content/uploads/2019/08/Guidelines-for-measuring-chlorophyll-a.pdf
       sv: >
-        text https://helcom.fi/wp-content/uploads/2019/08/Guidelines-for-measuring-chlorophyll-a.pdf
+        Data samlas in och analyseras enligt HELCOM Guidelines for Measuring Chlorophyll a 
+        https://helcom.fi/wp-content/uploads/2019/08/Guidelines-for-measuring-chlorophyll-a.pdf
     epibenthos:
       en: >
         Information about the program and the methods are available in Swedish at
@@ -116,9 +118,11 @@ methods:
         https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/bestand-av-knubbsal-och-vikaresal.html
     sealpathology:
       en: >
-        text
+        Information about the program and the methods are available in Swedish at the website of the Swedish Environmental Protection Agency, 
+        https://www.naturvardsverket.se/globalassets/vagledning/miljoovervakning/handledning/undersokningstyper/undersokningstyp-patologi-sal.pdf
       sv: >
-        text
+        Information om programmet och metoderna finns på svenska på Naturvårdsverkets webbplats, 
+        https://www.naturvardsverket.se/globalassets/vagledning/miljoovervakning/handledning/undersokningstyper/undersokningstyp-patologi-sal.pdf
     sedimentation:
       en: >
         Information about the program and the methods are available in Swedish at
@@ -181,9 +185,17 @@ methods:
   REG:
     epibenthos:
       en: >
-        text
+        Information about the program and the methods are available in Swedish at
+        the website of Swedish Agency for Marine and Water
+        Management,  https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/organisation-och-programomraden/miljoovervakningens-programomrade-kust-och-hav/delprogram-vegetationskladda-bottnar.html,
+        https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vegetationskladda-bottnar-ostkust.html,
+        https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vegetationskladda-bottnar-vastkust.html
       sv: >
-        text
+        Information om programmet och metoderna finns på svenska på Havs- och
+        vattenmyndighetens
+        webbplats,  https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/organisation-och-programomraden/miljoovervakningens-programomrade-kust-och-hav/delprogram-vegetationskladda-bottnar.html,
+        https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vegetationskladda-bottnar-ostkust.html,
+        https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vegetationskladda-bottnar-vastkust.html
   regRecipProj:
     phytoplankton:
       en: >
