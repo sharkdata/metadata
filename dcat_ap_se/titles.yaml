@@ -85,6 +85,11 @@ titles:
         SHARK - National marine environmental monitoring of zooplankton in Sweden since 1979.
       sv: >
         SHARK - Nationell marin miljöövervakning av djurplankton i Sverige sedan 1979.
+    jellyfish:
+      en: >
+        SHARK - National marine environmental monitoring of jellyfish in Sweden since 2007.
+      sv: >
+        SHARK - Nationell marin miljöövervakning av geléplankton i Sverige sedan 2007.
   REG:
     epibenthos:
       en: >
