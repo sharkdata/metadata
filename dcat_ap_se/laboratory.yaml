@@ -40,14 +40,14 @@ laboratory:
         Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
     picoplankton:
       en: >
-        text
+        Monitoring is performed by Swedish Meteorological and Hydrological Institute and Umeå University.
       sv: >
-        text
+        Övervakningen utförs av Sveriges Meteorologiska och hydrologiska institut och Umeå universitet.
     primaryproduction:
       en: >
-        text
+        Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University.
       sv: >
-        text
+        Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
     profile:
       en: >
         text
@@ -85,9 +85,9 @@ laboratory:
         Övervakningen utförs av Stockholms universitet, Umeå universitet, Sveriges meteorologiska och hydrologiska institut och Göteborgs universitet.
     jellyfish:
       en: >
-        text
+        Monitoring is performed by Gothenburg University.
       sv: >
-        text
+        Övervakningen utförs av Göteborgs universitet.
   REG:
     epibenthos:
       en: >
