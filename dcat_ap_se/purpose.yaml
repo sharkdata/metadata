@@ -5,76 +5,76 @@ purpose:
   description:
   NAT:
     zoobenthos:
-    en: >
-      The purpose of the monitoring program is to detect long term and short term changes in the soft bottom macrozoobenthos (>1mm) communities. Changes in the macrofauna community can indicate changes in environmental threats like eutrophication, environmental toxins and climate change.
-    sv: >
-      text
+      en: >
+        The purpose of the monitoring program is to detect long term and short term changes in the soft bottom macrozoobenthos (>1mm) communities. Changes in the macrofauna community can indicate changes in environmental threats like eutrophication, environmental toxins and climate change.
+      sv: >
+        text
     zooplankton:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
     epibenthos:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
     phytoplankton:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
     jellyfish:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
     greyseal:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
     harbourseal:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
     ringedseal:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
     bacterioplankton:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
     picoplankton:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
   NAT_REG:
     picoplankton:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
   REG_PROJ:
     epibenthos:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
   REG_RECIP_POJ:
     phytoplankton:
-    en: >
-      text
-    sv: >
-      text
+      en: >
+        text
+      sv: >
+        text
     zoobenthos:
-    en: >
-      The purpose of the monitoring program is to detect long term and short term changes in the soft bottom macrozoobenthos (>1mm) communities. Changes in the macrofauna community can indicate changes in environmental threats like eutrophication, environmental toxins and climate change.
-    sv: >
-      text
+      en: >
+        The purpose of the monitoring program is to detect long term and short term changes in the soft bottom macrozoobenthos (>1mm) communities. Changes in the macrofauna community can indicate changes in environmental threats like eutrophication, environmental toxins and climate change.
+      sv: >
+        text
 
