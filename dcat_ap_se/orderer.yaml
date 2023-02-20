@@ -88,7 +88,7 @@ orderer:
         text
       sv: >
         text
-  REG:
+  REG_PROJ:
     default:
       en: >
         The monitoring is financed by the Swedish county administration board, municipalities and Swedish coalitions of water conservation.
@@ -99,7 +99,7 @@ orderer:
         text
       sv: >
         text
-  regRecipProj:
+  REG_RECIP_PROJ:
     default:
       en: >
         The monitoring is financed by the Swedish county administration boards, municipalities and Swedish coalitions of water conservation. Recipient control data financed by companies are also included.

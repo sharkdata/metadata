@@ -190,7 +190,7 @@ methods:
         vattenmyndighetens
         webbplats, https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/organisation-och-programomraden/miljoovervakningens-programomrade-kust-och-hav/delprogram-fria-vattenmassan.html,
         https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/geleplankton.html
-  REG:
+  REG_PROJ:
     epibenthos:
       en: >
         Information about the program and the methods are available in Swedish at
@@ -204,7 +204,7 @@ methods:
         webbplats, https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/organisation-och-programomraden/miljoovervakningens-programomrade-kust-och-hav/delprogram-vegetationskladda-bottnar.html,
         https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vegetationskladda-bottnar-ostkust.html,
         https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/vegetationskladda-bottnar-vastkust.html
-  regRecipProj:
+  REG_RECIP_PROJ:
     phytoplankton:
       en: >
         Data should be sampled and analyzed according to the HELCOM Guidelines for monitoring of phytoplankton species composition,
