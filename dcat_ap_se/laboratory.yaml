@@ -88,13 +88,19 @@ laboratory:
         Monitoring is performed by Gothenburg University.
       sv: >
         Övervakningen utförs av Göteborgs universitet.
-  REG:
+  NAT_REG:
+    picoplankton:
+      en: >
+        Monitoring is performed by Swedish Meteorological and Hydrological Institute and Umeå University.
+      sv: >
+        Övervakningen utförs av Sveriges Meteorologiska och hydrologiska institut och Umeå universitet.
+  REG_PROJ:
     epibenthos:
       en: >
         Monitoring is performed by Swedish universities and consulting firms.
       sv: >
         Övervakningen utförs av svenska universitet och konsultföretag.
-  regRecipProj:
+  REG_RECIP_PROJ:
     phytoplankton:
       en: >
         Monitoring is performed by Swedish universities and consulting firms.
