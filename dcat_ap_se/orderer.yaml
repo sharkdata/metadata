@@ -88,6 +88,17 @@ orderer:
         text
       sv: >
         text
+  NAT_REG:
+    default:
+      en: >
+        The monitoring is financed by the Swedish county administration board, municipalities and Swedish coalitions of water conservation.
+      sv: >
+        Övervakningen finansieras av länsstyrelsen, kommuner och vattenvårdsförbund.
+    picoplankton:
+      en: >
+        text
+      sv: >
+        text
   REG_PROJ:
     default:
       en: >
