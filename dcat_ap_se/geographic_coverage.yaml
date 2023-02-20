@@ -7,18 +7,53 @@ geographicCoverage:
       Data are collected within the following marine regions:
     sv: >
       Data har samlats in inom följande marina regioner:
-  balticseakattegatskagerrak:
-    en: >
-      http://marineregions.org/mrgid/2401
-      http://marineregions.org/mrgid/2379
-    sv: >
-      http://marineregions.org/mrgid/2401
-      http://marineregions.org/mrgid/2379
   balticsea:
     en: >
       http://marineregions.org/mrgid/2401
     sv: >
       http://marineregions.org/mrgid/2401
+  gulfofbothnia:
+    en: >
+      http://marineregions.org/mrgid/2402
+    sv: >
+      http://marineregions.org/mrgid/2402
+  skagerrak:
+    en: >
+      http://marineregions.org/mrgid/2379
+    sv: >
+      http://marineregions.org/mrgid/2379
+  balticseaKattegatSkagerrak:
+    en: >
+      http://marineregions.org/mrgid/2401
+      http://marineregions.org/mrgid/2379
+    sv: >
+      http://marineregions.org/mrgid/2401
+      http://marineregions.org/mrgid/2379
+  balticproperKattegat:
+    en: >
+      http://marineregions.org/mrgid/4372,
+      http://marineregions.org/mrgid/2374
+    sv: >
+      http://marineregions.org/mrgid/4372,
+      http://marineregions.org/mrgid/2374
+  balticproperKattegatSkagerrak:
+    en: >
+      http://marineregions.org/mrgid/4372,
+      http://marineregions.org/mrgid/2374,
+      http://marineregions.org/mrgid/2379
+    sv: >
+      http://marineregions.org/mrgid/4372,
+      http://marineregions.org/mrgid/2374,
+      http://marineregions.org/mrgid/2379
+  balticsea(kattegatskagerrak):
+    en: >
+      http://marineregions.org/mrgid/2401,
+      (http://marineregions.org/mrgid/2374,
+      http://marineregions.org/mrgid/2379)
+    sv: >
+      http://marineregions.org/mrgid/2401,
+      (http://marineregions.org/mrgid/2374,
+      http://marineregions.org/mrgid/2379)
   NAT:
     bacterioplankton:
       description:
@@ -74,7 +109,7 @@ geographicCoverage:
           Data are collected within the following marine regions:
         sv: >
           Data har samlats in inom följande marina regioner:
-    balticproperkattegat:
+    balticproperKattegat:
         en: >
           http://marineregions.org/mrgid/4372,
           http://marineregions.org/mrgid/2374
@@ -87,7 +122,7 @@ geographicCoverage:
           Data are collected within the following marine regions:
         sv: >
           Data har samlats in inom följande marina regioner:
-    balticproperkattegatskagerrak:
+    balticproperKattegatSkagerrak:
         en: >
           http://marineregions.org/mrgid/4372,
           http://marineregions.org/mrgid/2374,
