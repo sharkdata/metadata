@@ -12,11 +12,11 @@ geographicCoverage:
       http://marineregions.org/mrgid/2401
     sv: >
       http://marineregions.org/mrgid/2401
-  gulfofbothnia:
+  kattegat:
     en: >
-      http://marineregions.org/mrgid/2402
+      http://marineregions.org/mrgid/2374
     sv: >
-      http://marineregions.org/mrgid/2402
+      http://marineregions.org/mrgid/2374
   skagerrak:
     en: >
       http://marineregions.org/mrgid/2379
@@ -24,18 +24,20 @@ geographicCoverage:
       http://marineregions.org/mrgid/2379
   balticseaKattegatSkagerrak:
     en: >
-      http://marineregions.org/mrgid/2401
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2374,
       http://marineregions.org/mrgid/2379
     sv: >
-      http://marineregions.org/mrgid/2401
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2374,
       http://marineregions.org/mrgid/2379
-  balticproperKattegat:
+  balticseaSkagerrak:
     en: >
-      http://marineregions.org/mrgid/4372,
-      http://marineregions.org/mrgid/2374
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2379
     sv: >
-      http://marineregions.org/mrgid/4372,
-      http://marineregions.org/mrgid/2374
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2379
   balticproperKattegatSkagerrak:
     en: >
       http://marineregions.org/mrgid/4372,
@@ -45,84 +47,129 @@ geographicCoverage:
       http://marineregions.org/mrgid/4372,
       http://marineregions.org/mrgid/2374,
       http://marineregions.org/mrgid/2379
-  balticsea(kattegatskagerrak):
-    en: >
-      http://marineregions.org/mrgid/2401,
-      (http://marineregions.org/mrgid/2374,
-      http://marineregions.org/mrgid/2379)
-    sv: >
-      http://marineregions.org/mrgid/2401,
-      (http://marineregions.org/mrgid/2374,
-      http://marineregions.org/mrgid/2379)
   NAT:
+    zoobenthos:
+      description:
+        en: >
+          Data are collected within the following marine region:
+        sv: >
+          Data har samlats in inom följande marin region:
+      balticseaKattegatSkagerrak:
+        en: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
+        sv: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
+    zooplankton:
+      description:
+        en: >
+          Data are collected within the following marine region:
+        sv: >
+          Data har samlats in inom följande marin region:
+      balticsea:
+        en: >
+          http://marineregions.org/mrgid/2401
+        sv: >
+          http://marineregions.org/mrgid/2401
+    phytoplankton:
+      description:
+        en: >
+          Data are collected within the following marine region:
+        sv: >
+          Data har samlats in inom följande marin region:
+      balticseaKattegatSkagerrak:
+        en: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
+        sv: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
+    epibenthos:
+      description:
+        en: >
+          Data are collected within the following marine region:
+        sv: >
+          Data har samlats in inom följande marin region:
+      balticseaKattegatSkagerrak:
+        en: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
+        sv: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
     bacterioplankton:
       description:
         en: >
           Data are collected within the following marine region:
         sv: >
           Data har samlats in inom följande marin region:
-      gulfofbothnia:
+      balticsea:
         en: >
-          http://marineregions.org/mrgid/2402
+          http://marineregions.org/mrgid/2401
         sv: >
-          http://marineregions.org/mrgid/2402
-    jellyfish:
-      description:
-        en: >
-          Data are collected within the following marine region:
-        sv: >
-          Data har samlats in inom följande marin region:
-      skagerrak:
-        en: >
-          http://marineregions.org/mrgid/2379
-        sv: >
-          http://marineregions.org/mrgid/2379
+          http://marineregions.org/mrgid/2401
+  #  jellyfish:
+  #    description:
+  #      en: >
+  #        Data are collected within the following marine region:
+  #      sv: >
+  #        Data har samlats in inom följande marin region:
+  #    skagerrak:
+  #      en: >
+  #        http://marineregions.org/mrgid/2379
+  #      sv: >
+  #        http://marineregions.org/mrgid/2379
     ringedseal:
       description:
         en: >
           Data are collected within the following marine regions:
         sv: >
           Data har samlats in inom följande marina regioner:
-      gulfofbothnia:
+      balticsea:
         en: >
-          http://marineregions.org/mrgid/2402
+          http://marineregions.org/mrgid/2401
         sv: >
-          http://marineregions.org/mrgid/2402
+          http://marineregions.org/mrgid/2401
     greyseal:
       description:
         en: >
           Data are collected within the following marine region:
         sv: >
           Data har samlats in inom följande marin region:
-      balticsea(kattegatskagerrak):
+      balticseaSkagerrak:
         en: >
           http://marineregions.org/mrgid/2401,
-          (http://marineregions.org/mrgid/2374,
-          http://marineregions.org/mrgid/2379)
+          http://marineregions.org/mrgid/2379
         sv: >
           http://marineregions.org/mrgid/2401,
-          (http://marineregions.org/mrgid/2374,
-          http://marineregions.org/mrgid/2379)
-    harbourporpoise:
-      description:
-        en: >
-          Data are collected within the following marine regions:
-        sv: >
-          Data har samlats in inom följande marina regioner:
-    balticproperKattegat:
-        en: >
-          http://marineregions.org/mrgid/4372,
-          http://marineregions.org/mrgid/2374
-        sv: >
-          http://marineregions.org/mrgid/4372,
-          http://marineregions.org/mrgid/2374
+          http://marineregions.org/mrgid/2379
+  #  harbourporpoise:
+  #    description:
+  #      en: >
+  #        Data are collected within the following marine regions:
+  #      sv: >
+  #        Data har samlats in inom följande marina regioner:
+  #  balticproperKattegat:
+  #      en: >
+  #        http://marineregions.org/mrgid/4372,
+  #        http://marineregions.org/mrgid/2374
+  #      sv: >
+  #        http://marineregions.org/mrgid/4372,
+  #        http://marineregions.org/mrgid/2374
     harbourseal:
       description:
         en: >
           Data are collected within the following marine regions:
         sv: >
           Data har samlats in inom följande marina regioner:
-    balticproperKattegatSkagerrak:
+      balticproperKattegatSkagerrak:
         en: >
           http://marineregions.org/mrgid/4372,
           http://marineregions.org/mrgid/2374,
@@ -131,14 +178,75 @@ geographicCoverage:
           http://marineregions.org/mrgid/4372,
           http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
-    sedimentation:
+  #  sedimentation:
+  #    description:
+  #      en: >
+  #        Data are collected within the following marine region:
+  #      sv: >
+  #        Data har samlats in inom följande marin region:
+  #  balticsea:
+  #      en: >
+  #        http://marineregions.org/mrgid/2401
+  #      sv: >
+  #        http://marineregions.org/mrgid/2401
+  NAT_REG:
+    picoplankton:
+      description:
+        en: >
+          Data are collected within the following marine regions:
+        sv: >
+          Data har samlats in inom följande marina regioner:
+        balticseaSkagerrak:
+          en: >
+            http://marineregions.org/mrgid/2401,
+            http://marineregions.org/mrgid/2379
+          sv: >
+            http://marineregions.org/mrgid/2401,
+            http://marineregions.org/mrgid/2379
+  REG_PROJ:
+    epibenthos:
       description:
         en: >
           Data are collected within the following marine region:
         sv: >
           Data har samlats in inom följande marin region:
-    balticsea:
+      balticseaKattegatSkagerrak:
         en: >
-          http://marineregions.org/mrgid/2401
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/2401
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
+  REG_RECIP_PROJ:
+    zoobenthos:
+      description:
+        en: >
+          Data are collected within the following marine region:
+        sv: >
+          Data har samlats in inom följande marin region:
+      balticseaKattegatSkagerrak:
+        en: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
+        sv: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
+    phytoplankton:
+      description:
+        en: >
+          Data are collected within the following marine region:
+        sv: >
+          Data har samlats in inom följande marin region:
+      balticseaKattegatSkagerrak:
+        en: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
+        sv: >
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
+          http://marineregions.org/mrgid/2379
