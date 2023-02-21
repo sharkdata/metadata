@@ -10,9 +10,9 @@ laboratory:
         Övervakningen utförs av Umeå Universitet.
     chlorophyll:
       en: >
-        text
+        Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University.
       sv: >
-        text
+        Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
     epibenthos:
       en: >
         Monitoring is performed by Stockholm University, University of Gothenburg and Linnaeus University.
@@ -48,11 +48,11 @@ laboratory:
         Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University.
       sv: >
         Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
-    profile:
-      en: >
-        text
-      sv: >
-        text
+  #  profile:
+  #    en: >
+  #      text
+  #    sv: >
+  #      text
     ringedseal:
       en: >
         Monitoring is performed by the Swedish Museum of Natural History.
@@ -68,11 +68,11 @@ laboratory:
         Monitoring is performed by Stockholm University och Umeå University.
       sv: >
         Övervakningen utförs av Stockholms universitet and Umeå universitet.
-    physicalchemcial:
-      en: >
-        text
-      sv: >
-        text
+  #  physicalchemcial:
+  #    en: >
+  #      text
+  #    sv: >
+  #      text
     zoobenthos:
       en: >
         Monitoring is performed by Stockholm University, Gothenburg University, Umeå University and Linnaeus University.
