@@ -99,7 +99,7 @@ metadataTemplate:
         text
       sv: >
         text
-  regRecipProj:
+  REG_RECIP_PROJ:
     default:
       en: >
         text

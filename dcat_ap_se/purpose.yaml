@@ -3,12 +3,17 @@
 ---
 purpose:
   description:
+    default:
+      en: >
+        text
+      sv: >
+        Marin miljöövervakning för att upptäcka förändringar i marin miljö samt rapportering enligt havsmiljödirektivet och vattendirektivet.
   NAT:
     zoobenthos:
       en: >
         The purpose of the monitoring program is to detect long term and short term changes in the soft bottom macrozoobenthos (>1mm) communities. Changes in the macrofauna community can indicate changes in environmental threats like eutrophication, environmental toxins and climate change.
       sv: >
-        text
+        Marin miljöövervakning för att upptäcka förändringar i marin miljö samt rapportering enligt havsmiljödirektivet och vattendirektivet.
     zooplankton:
       en: >
         text
