@@ -11,7 +11,7 @@ keywords:
           ]
         sv: >
           [
-           "Oceans > Marine Environment Monitoring",
+            "Oceans > Marine Environment Monitoring",
           ]
     bacterioplankton:
       gcmd:
@@ -194,23 +194,30 @@ keywords:
             "Oceans > Marine Sediments > Particle Flux",
             "Oceans > Marine Sediments > Sedimentation"
           ]
-    physicalchemcial:
+    physicalchemical:
       gcmd:
         en: >
           [
             "Oceans > Marine Environment Monitoring",
             "Oceans > Chemistry",
-            "Oceans > Ocean Temperature",
-            "Oceans > Salinity/density",
-            "Oceans > Ocean Optics",
+            "Oceans > Ocean Chemistry > Nutrients",
+            "Oceans > Ocean Chemistry > Oxygen",
+            "Oceans > Ocean Temperature > Water Temperature",
+            "Oceans > Salinity/density > Density",
+            "Oceans > Salinity/density > Salinity"
+            "Oceans > Ocean Optics > Secchi Depth",
           ]
         sv: >
           [
             "Oceans > Marine Environment Monitoring",
             "Oceans > Chemistry",
-            "Oceans > Ocean Temperature",
-            "Oceans > Salinity/density",
-            "Oceans > Ocean Optics"
+            "Oceans > Ocean Chemistry > Nutrients",
+            "Oceans > Ocean Chemistry > Oxygen",
+            "Oceans > Ocean Temperature > Water Temperature",
+            "Oceans > Salinity/density > Density",
+            "Oceans > Salinity/density > Salinity"
+            "Oceans > Ocean Optics > Secchi Depth",
+          ]
           ]
     zoobenthos:
       gcmd:

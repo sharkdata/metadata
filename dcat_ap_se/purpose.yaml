@@ -14,6 +14,9 @@ purpose:
         The purpose of the monitoring program is to detect long term and short term changes in the soft bottom macrozoobenthos (>1mm) communities. Changes in the macrofauna community can indicate changes in environmental threats like eutrophication, environmental toxins and climate change.
       sv: >
         Marin miljöövervakning för att upptäcka förändringar i marin miljö samt rapportering enligt havsmiljödirektivet och vattendirektivet.
+    physicalchemical:
+      sv: >
+        Marin miljöövervakning för att upptäcka förändringar i marin miljö samt rapportering enligt havsmiljödirektivet och vattendirektivet. Data samlas in för flera syften; kartering av närsaltspoolen, trendövervakning, kartering av syresituationen i Egentliga Östersjön och Kattegat. För mer detaljerad information se vägledningar på Havs- och vattenmyndighetens webbplats. https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/overvakningsmanualer-for-miljoovervakning/overvakningsmanualer/hydrografi-och-narsalter-kartering.html, https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/overvakningsmanualer-for-miljoovervakning/overvakningsmanualer/hydrografi-och-narsalter-trendovervakning.html, https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/overvakningsmanualer-for-miljoovervakning/overvakningsmanualer/syrehalt-i-bottenvatten-kartering.html
     zooplankton:
       en: >
         text

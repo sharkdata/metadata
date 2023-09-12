@@ -68,11 +68,11 @@ laboratory:
         Monitoring is performed by Stockholm University och Umeå University.
       sv: >
         Övervakningen utförs av Stockholms universitet and Umeå universitet.
-  #  physicalchemcial:
-  #    en: >
-  #      text
-  #    sv: >
-  #      text
+    physicalchemical:
+      en: >
+        Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University.
+      sv: >
+        Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
     zoobenthos:
       en: >
         Monitoring is performed by Stockholm University, Gothenburg University, Umeå University and Linnaeus University.
