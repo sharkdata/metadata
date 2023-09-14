@@ -47,6 +47,19 @@ geographicCoverage:
       http://marineregions.org/mrgid/4372\n
       http://marineregions.org/mrgid/2374\n
       http://marineregions.org/mrgid/2379
+  balticseaSkagerrakNorthseaNorwegianseaNorthernnorthatlantic:
+    en: >
+      http://marineregions.org/mrgid/2401\n
+      http://marineregions.org/mrgid/2379\n
+      http://marineregions.org/mrgid/2350\n
+      http://marineregions.org/mrgid/2353\n
+      http://marineregions.org/mrgid/18040
+    sv: >
+      http://marineregions.org/mrgid/2401\n
+      http://marineregions.org/mrgid/2379\n
+      http://marineregions.org/mrgid/2350\n
+      http://marineregions.org/mrgid/2353\n
+      http://marineregions.org/mrgid/18040
   NAT:
     zoobenthos:
       description:
