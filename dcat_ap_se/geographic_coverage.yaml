@@ -24,41 +24,41 @@ geographicCoverage:
       http://marineregions.org/mrgid/2379
   balticseaKattegatSkagerrak:
     en: >
-      http://marineregions.org/mrgid/2401\n
-      http://marineregions.org/mrgid/2374\n
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2374,
       http://marineregions.org/mrgid/2379
     sv: >
-      http://marineregions.org/mrgid/2401\n
-      http://marineregions.org/mrgid/2374\n
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2374,
       http://marineregions.org/mrgid/2379
   balticseaSkagerrak:
     en: >
-      http://marineregions.org/mrgid/2401\n
+      http://marineregions.org/mrgid/2401,
       http://marineregions.org/mrgid/2379
     sv: >
-      http://marineregions.org/mrgid/2401\n
+      http://marineregions.org/mrgid/2401,
       http://marineregions.org/mrgid/2379
   balticproperKattegatSkagerrak:
     en: >
-      http://marineregions.org/mrgid/4372\n
-      http://marineregions.org/mrgid/2374\n
+      http://marineregions.org/mrgid/4372,
+      http://marineregions.org/mrgid/2374,
       http://marineregions.org/mrgid/2379
     sv: >
-      http://marineregions.org/mrgid/4372\n
-      http://marineregions.org/mrgid/2374\n
+      http://marineregions.org/mrgid/4372,
+      http://marineregions.org/mrgid/2374,
       http://marineregions.org/mrgid/2379
   balticseaSkagerrakNorthseaNorwegianseaNorthernnorthatlantic:
     en: >
-      http://marineregions.org/mrgid/2401\n
-      http://marineregions.org/mrgid/2379\n
-      http://marineregions.org/mrgid/2350\n
-      http://marineregions.org/mrgid/2353\n
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2379,
+      http://marineregions.org/mrgid/2350,
+      http://marineregions.org/mrgid/2353,
       http://marineregions.org/mrgid/18040
     sv: >
-      http://marineregions.org/mrgid/2401\n
-      http://marineregions.org/mrgid/2379\n
-      http://marineregions.org/mrgid/2350\n
-      http://marineregions.org/mrgid/2353\n
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2379,
+      http://marineregions.org/mrgid/2350,
+      http://marineregions.org/mrgid/2353,
       http://marineregions.org/mrgid/18040
   NAT:
     zoobenthos:
@@ -69,12 +69,12 @@ geographicCoverage:
           Data har samlats in inom följande marin region:
       balticseaKattegatSkagerrak:
         en: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
     zooplankton:
       description:
@@ -95,12 +95,12 @@ geographicCoverage:
           Data har samlats in inom följande marin region:
       balticseaKattegatSkagerrak:
         en: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
     epibenthos:
       description:
@@ -110,12 +110,12 @@ geographicCoverage:
           Data har samlats in inom följande marin region:
       balticseaKattegatSkagerrak:
         en: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
     bacterioplankton:
       description:
@@ -158,10 +158,10 @@ geographicCoverage:
           Data har samlats in inom följande marin region:
       balticseaSkagerrak:
         en: >
-          http://marineregions.org/mrgid/2401\n
+          http://marineregions.org/mrgid/2401,
           http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/2401\n
+          http://marineregions.org/mrgid/2401,
           http://marineregions.org/mrgid/2379
   #  harbourporpoise:
   #    description:
@@ -184,12 +184,12 @@ geographicCoverage:
           Data har samlats in inom följande marina regioner:
       balticproperKattegatSkagerrak:
         en: >
-          http://marineregions.org/mrgid/4372\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/4372,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/4372\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/4372,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
     physicalchemical:
       description:
@@ -199,12 +199,12 @@ geographicCoverage:
           Data har samlats in inom följande marina regioner:
       balticproperKattegatSkagerrak:
         en: >
-          http://marineregions.org/mrgid/4372\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/4372,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/4372\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/4372,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
   #  sedimentation:
   #    description:
@@ -226,10 +226,10 @@ geographicCoverage:
           Data har samlats in inom följande marina regioner:
         balticseaSkagerrak:
           en: >
-            http://marineregions.org/mrgid/2401\n
+            http://marineregions.org/mrgid/2401,
             http://marineregions.org/mrgid/2379
           sv: >
-            http://marineregions.org/mrgid/2401\n
+            http://marineregions.org/mrgid/2401,
             http://marineregions.org/mrgid/2379
   REG_PROJ:
     epibenthos:
@@ -240,12 +240,12 @@ geographicCoverage:
           Data har samlats in inom följande marin region:
       balticseaKattegatSkagerrak:
         en: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
   REG_RECIP_PROJ:
     zoobenthos:
@@ -256,12 +256,12 @@ geographicCoverage:
           Data har samlats in inom följande marin region:
       balticseaKattegatSkagerrak:
         en: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
     phytoplankton:
       description:
@@ -271,10 +271,10 @@ geographicCoverage:
           Data har samlats in inom följande marin region:
       balticseaKattegatSkagerrak:
         en: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
         sv: >
-          http://marineregions.org/mrgid/2401\n
-          http://marineregions.org/mrgid/2374\n
+          http://marineregions.org/mrgid/2401,
+          http://marineregions.org/mrgid/2374,
           http://marineregions.org/mrgid/2379
