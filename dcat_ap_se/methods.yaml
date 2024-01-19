@@ -55,11 +55,15 @@ methods:
         - https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/miljoovervakningens-programomrade-kust-och-hav/delprogram-sal-och-havsorn.html
         \n
         - https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/grasalsbestand.html
-  #  harbourporpoise:
-  #    en: >
-  #      text
-  #    sv: >
-  #      text
+    harbourporpoise:
+      en: >
+        Information about the program and the methods are available in Swedish at the website of Swedish Agency for Marine and Water Management.
+        \n
+        - https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/marin-miljoovervakning/tumlare.html
+      sv: >
+        Information om programmet och metoderna finns på svenska på Havs- och vattenmyndighetens webbplats.
+        \n
+        - https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/marin-miljoovervakning/tumlare.html
     harbourseal:
       en: >
         Information about the program and the methods are available in Swedish at the website of Swedish Agency for Marine and Water Management.
