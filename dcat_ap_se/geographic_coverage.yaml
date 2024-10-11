@@ -60,6 +60,17 @@ geographicCoverage:
       http://marineregions.org/mrgid/2350,
       http://marineregions.org/mrgid/2353,
       http://marineregions.org/mrgid/18040
+  balticseaKattegatSkagerrakNorthsea:
+    en: >
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2374,
+      http://marineregions.org/mrgid/2379,
+      http://marineregions.org/mrgid/2350
+    sv: >
+      http://marineregions.org/mrgid/2401,
+      http://marineregions.org/mrgid/2374,
+      http://marineregions.org/mrgid/2379,
+      http://marineregions.org/mrgid/2350
   NAT:
     zoobenthos:
       description:

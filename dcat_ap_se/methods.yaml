@@ -281,3 +281,15 @@ methods:
         - https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/mjukbottenlevande-makrofauna-trend--och-omradesovervakning.html
         \n
         - https://www.havochvatten.se/vagledning-foreskrifter-och-lagar/vagledningar/ovriga-vagledningar/undersokningstyper-for-miljoovervakning/undersokningstyper/sediment---basundersokning.html
+  PROJ:
+    IFCB:
+      en: >
+        text
+      sv: >
+        Data samlas in och analyseras med instrumentet Imaging FlowCytobot (IFCB). Analysen följer följande metoder:
+        \n
+        - https://github.com/hsosik/ifcb-analysis 
+        \n
+        - https://github.com/kudelalab/PSD
+        \n
+        - https://github.com/EuropeanIFCBGroup/iRfcb 

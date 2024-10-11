@@ -111,3 +111,9 @@ laboratory:
         Monitoring is performed by Swedish universities, agencies and consulting firms.
       sv: >
         Övervakningen utförs av svenska universitet och konsultföretag.
+  PROJ:
+    IFCB:
+      en: >
+        Monitoring is performed by Swedish Meteorological and Hydrological Institute.
+      sv: >
+        Övervakningen utförs av Sveriges Meteorologiska och hydrologiska institut.
