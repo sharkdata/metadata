@@ -254,10 +254,26 @@ keywords:
         en: >
           [
             "Oceans > Marine Environment Monitoring",
-            "Oceans > Marine Biology",
+            "Oceans > Marine Biology"
           ]
         sv: >
           [
             "Oceans > Marine Environment Monitoring",
-            "Oceans > Marine Biology",
+            "Oceans > Marine Biology"
+          ]
+    ADCP:
+      gcmd:
+        en: >
+          [
+            "Oceans > Marine Environment Monitoring",
+            "Oceans > Ocean Circulation",
+            "Oceans > Ocean Circulation > Ocean Currents",
+            "Oceans > Ocean Circulation > Ocean Currents > Current Profiles"
+          ]
+        sv: >
+          [
+            "Oceans > Marine Environment Monitoring",
+            "Oceans > Ocean Circulation",
+            "Oceans > Ocean Circulation > Ocean Currents",
+            "Oceans > Ocean Circulation > Ocean Currents > Current Profiles"
           ]

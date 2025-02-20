@@ -12,7 +12,7 @@ laboratory:
       en: >
         Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University.
       sv: >
-        Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
+        Övervakningen utförs av Stockholms universitet, Sveriges meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
     epibenthos:
       en: >
         Monitoring is performed by Stockholm University, University of Gothenburg and Linnaeus University.
@@ -37,17 +37,17 @@ laboratory:
       en: >
         Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University.
       sv: >
-        Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
+        Övervakningen utförs av Stockholms universitet, Sveriges meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
     picoplankton:
       en: >
         Monitoring is performed by Swedish Meteorological and Hydrological Institute and Umeå University.
       sv: >
-        Övervakningen utförs av Sveriges Meteorologiska och hydrologiska institut och Umeå universitet.
+        Övervakningen utförs av Sveriges meteorologiska och hydrologiska institut och Umeå universitet.
     primaryproduction:
       en: >
         Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University.
       sv: >
-        Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
+        Övervakningen utförs av Stockholms universitet, Sveriges meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
   #  profile:
   #    en: >
   #      text
@@ -72,7 +72,7 @@ laboratory:
       en: >
         Monitoring is performed by Stockholm University, Swedish Meteorological and Hydrological Institute, Gothenburg University and Umeå University.
       sv: >
-        Övervakningen utförs av Stockholms universitet, Sveriges Meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
+        Övervakningen utförs av Stockholms universitet, Sveriges meteorologiska och hydrologiska institut, Göteborgs universitet och Umeå universitet.
     zoobenthos:
       en: >
         Monitoring is performed by Stockholm University, Gothenburg University, Umeå University and Linnaeus University.
@@ -93,7 +93,7 @@ laboratory:
       en: >
         Monitoring is performed by Swedish Meteorological and Hydrological Institute and Umeå University.
       sv: >
-        Övervakningen utförs av Sveriges Meteorologiska och hydrologiska institut och Umeå universitet.
+        Övervakningen utförs av Sveriges meteorologiska och hydrologiska institut och Umeå universitet.
   REG_PROJ:
     epibenthos:
       en: >
@@ -116,4 +116,9 @@ laboratory:
       en: >
         Monitoring is performed by Swedish Meteorological and Hydrological Institute.
       sv: >
-        Övervakningen utförs av Sveriges Meteorologiska och hydrologiska institut.
+        Övervakningen utförs av Sveriges meteorologiska och hydrologiska institut.
+    ADCP:
+      en: >
+        Monitoring is performed by Swedish Meteorological and Hydrological Institute.
+      sv: >
+        Övervakningen utförs av Sveriges meteorologiska och hydrologiska institut.

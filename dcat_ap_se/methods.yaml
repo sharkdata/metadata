@@ -286,10 +286,33 @@ methods:
       en: >
         text
       sv: >
-        Data samlas in och analyseras med instrumentet Imaging FlowCytobot (IFCB). Analysen följer följande metoder:
+        Data samlas in med instrumentet Imaging FlowCytobot (IFCB). Analysen följer följande metoder:
         \n
         - https://github.com/hsosik/ifcb-analysis 
         \n
         - https://github.com/kudelalab/PSD
         \n
         - https://github.com/EuropeanIFCBGroup/iRfcb 
+    ADCP:
+      en: >
+        The hull-mounted Acoustic Doppler Current Profiler (ADCP) measures the speed and direction of currents at multiple depths from the vessel to the seabed. The number of depth layers is determined by both the frequency of the ADCP and setup of the instrument. A vessel-mounted survey takes multiple current profile measurements at different points across a sailed track. Users can then see how the currents vary not only with depth, but across a geographic area.
+        \n
+        In this dataset you will find data from R/V Svea in Skagerrak, Kattegat and the Baltic Sea from year 2022 onwards.
+        \n
+        Sampling is performed using two separate transducers, RDI Teledyne Work Horse 600 kHz and RDI Teledyne Ocean Surveyor 150 kHz. The Work Horse uses depth cells of 2 meters, sampled from approximately -8 to -40 meters depth. The Ocean Surveyor uses depth cells of 8 meters, sampled from approximately -12 to -400 meters depth. The temporal average is 120 seconds for both sensors.
+        \n
+        Processing and quality control are carried out using the CODAS software, version focal 20.04:
+        \n
+        - https://currents.soest.hawaii.edu/docs/adcp_doc/index.html
+      sv: >
+        Skrovmonterad Acoustic Doppler Current Profiler (ADCP) mäter hastighet och riktning på strömmarna på flera djup från fartygets undersida ner till havsbotten. Antalet djupsceller bestäms av både frekvensen på ADCP och instrumentets inställningar. En undersökning med skrovmonterad ADCP tar många strömprofiler vid olika punkter längs en rutt. Användare kan sedan se hur strömmarna varierar inte bara med djup, utan också över ett geografiskt område.
+        \n
+        I detta dataset hittar du data från R/V Svea i Skagerrak, Kattegatt och Östersjön från år 2022 och framåt.
+        \n
+        Provtagning utförs med två separata sensorer, RDI Teledyne Work Horse 600 kHz och RDI Teledyne Ocean Surveyor 150 kHz. Work Horse använder djupceller på 2 meter, som samplas från cirka -8 till -40 meters djup. Ocean Surveyor använder djupceller på 8 meter, som samplas från cirka -12 till -400 meters djup. Det temporala medelvärdet är 120 sekunder för båda sensorerna.
+        \n
+        Bearbetning och kvalitetskontroll utförs med hjälp av CODAS-programvaran, version focal 20.04:
+        \n
+        - https://currents.soest.hawaii.edu/docs/adcp_doc/index.html
+
+

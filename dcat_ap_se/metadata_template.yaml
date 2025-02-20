@@ -121,3 +121,8 @@ metadataTemplate:
         text
       sv: >
         text
+    ADCP:
+      en: >
+        text
+      sv: >
+        text

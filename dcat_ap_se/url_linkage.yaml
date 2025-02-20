@@ -2,146 +2,151 @@ url_linkage:
   NAT:
     zoobenthos:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=smhi-zoobenthos-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=smhi-zoobenthos-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     zooplankton:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=shark-zooplankton-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=shark-zooplankton-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     physicalchemical:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
     greyseal:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=smhi-greyseal-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=smhi-greyseal-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     harbourseal:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=smhi-harbourseal-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=smhi-harbourseal-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     bacterioplankton:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=shark-bacterioplankton-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=shark-bacterioplankton-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     epibenthos:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=smhi-epibenthos-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=smhi-epibenthos-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     phytoplankton:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=smhi-phytoplankton-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=smhi-phytoplankton-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     picoplankton:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=shark-picoplankton"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=shark-picoplankton"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     ringedseal:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=smhi-ringedseal-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=smhi-ringedseal-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     sealpathology:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=shark-sealpathology"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=shark-sealpathology"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     jellyfish:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=shark-jellyfish-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=shark-jellyfish-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     harbourporpoise:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=shark-harbour-porpoise-nat"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=shark-harbour-porpoise-nat"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     sealpathology:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=shark-sealpathology"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=shark-sealpathology"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
 
   REG_PROJ:
     epibenthos:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=smhi-epibenthos-reg"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=smhi-epibenthos-reg"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
   REG_RECIP_PROJ:
     phytoplankton:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=smhi-phytoplankton-reg"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=smhi-phytoplankton-reg"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
     zoobenthos:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=smhi-zoobenthos-reg"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=smhi-zoobenthos-reg"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
   PROJ:
     IFCB:
       sv:
-        - url: "https://sharkweb.smhi.se/"
-          description: "SHARKweb är Svenskt HavsARKivs webbplats för nedladdning av data."
-          title: "SHARKweb"
-        - url: "https://www.gbif.se/ipt/resource?r=shark-ifcb"
+        - url: "http://shark.smhi.se/"
+          description: "SHARK är Svenskt HavsARKivs webbplats för nedladdning av data."
+          title: "SHARK"
+        - url: "http://www.gbif.se/ipt/resource?r=shark-ifcb"
           description: "Global Biodiversity Information Facility GBIF-Sweden, portalen för fri tillgång till data om biologisk mångfald."
           title: "GBIF ipt"
+    ADCP:
+      sv:
+        - url: "mailto:shark@smhi.se"
+          description: "SHARK är Svenskt HavsARKiv. Data finns tillgänglig vid begäran"
+          title: "SHARK"

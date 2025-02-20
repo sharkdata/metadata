@@ -77,7 +77,7 @@ orderer:
       en: >
         text
       sv: >
-        Det nationella övervakningsprogrammet initierades av Naturvårdsverket och finansieras nu av Havs- och vattenmyndigheten och Sveriges Meteorologiska och hydrologiska institut.
+        Det nationella övervakningsprogrammet initierades av Naturvårdsverket och finansieras nu av Havs- och vattenmyndigheten och Sveriges meteorologiska och hydrologiska institut.
     zoobenthos:
       en: >
         text
@@ -132,3 +132,8 @@ orderer:
         text
       sv: >
         text
+    ADCP:
+      en: >
+        text
+      sv: >
+        Övervakningen finansieras av Sveriges meteorologiska och hydrologiska institut.
