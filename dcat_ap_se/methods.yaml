@@ -284,15 +284,33 @@ methods:
   PROJ:
     IFCB:
       en: >
-        text
+        Sampling is performed either using shipboard flow through systems (i.e. FerryBox) where the Imaging FlowCytobot (IFCB) is connected as an addon, or at specific locations with the IFCB is submerged in-situ. Other deployment methods are possible.
+        \n\nThe IFCB uses flow cytometry technology and high-resolution images to detects particles in a water sample. Shapes in images are identified to best possible taxonomical levels using AI-assisted image analysis software. Volumes are estimated from the organism's two-dimensional boundary.
+        \n\nIn short, analysis of phyto- and microzooplankton species composition, abundance and biomass is carried out for the following purposes \n\n
+        -	to describe temporal trends as well as the intensity and occurrence of blooms \n
+        -	to describe the spatial distribution of species \n
+        -	to identify key species (e.g. dominating, harmful, potential non-indigenous and/or invasive species, as well as indicator species) \n
+        -	to provide basic data for complex ecosystem analyses, food web studies, modelling as well as for requirements in the frame of the Marine Strategy Framework Directive of the European Union (MSFD; European Union 2008) and the EU Water Framework Directive (WFD; European Union 2000) \n
+        \n\nThe analysis follows the methods provided\n
+        -	Machine learning: Sosik, H. M. and Olson, R. J. (2007), Automated taxonomic classification of phytoplankton sampled with imaging-in-flow cytometry. Limnol. Oceanogr: Methods 5, 204-216. http://github.com/hsosik/ifcb-analysis \n
+        -	Quality control: Hayashi, K., Walton, J., Lie, A., Smith, J. and Kudela M. Using particle size distribution (PSD) to automate imaging flow cytobot (IFCB) data quality in coastal California, USA. In prep. http://github.com/kudelalab/PSD \n
+        -	Data processing: Anders Torstensson (2024). I 'R' FlowCytobot (iRfcb): Tools for Analyzing and Processing Data from the IFCB. R package version 0.3.10. https://doi.org/10.5281/zenodo.12533225. http://github.com/EuropeanIFCBGroup/iRfcb \n\n
+        \nIn this dataset you will find data from Tångesund oceanographic platform, Swedish Skagerrak coast year 2016 (IFCB110), and from R/V Svea (https://vocab.nerc.ac.uk/collection/C17/current/77SE/) from year 2022 onwards (IFCB134). Other sampling platforms are possible.
+
       sv: >
-        Data samlas in med instrumentet Imaging FlowCytobot (IFCB). Analysen följer följande metoder:
-        \n
-        - https://github.com/hsosik/ifcb-analysis 
-        \n
-        - https://github.com/kudelalab/PSD
-        \n
-        - https://github.com/EuropeanIFCBGroup/iRfcb 
+        Provtagning sker antingen med hjälp av genomflödessystem på fartyg (t.ex. FerryBox) där Imaging Flowcytobot (IFCB) använder en del av flödet, eller på specifika platser in-situ där IFCB sänks ner i vattnet. Fler provtagningsmetoder är möjliga.
+        \n\nIFCB använder teknologi från flödescytometri samt högupplöst foto för att detektera partiklar i ett vattenprov. Partiklars former i bilderna identifieras till så noggrann taxonomisk nivå som möjligt (släkte- eller artnivå) med hjälp av AI, samt dess storlek och volym räknas ut med hjälp av mjukvara för bildanalys.
+        \n\nAnalyser av biomassa, abundans och artsammansättning av växt- och mikrodjurplankton görs av följande anledningar:\n
+        - För att beskriva tidsmässiga trender samt förekomst av blomningar och dess intensitet\n
+        - För att beskriva arters rumsliga utbredning\n
+        - För att identifiera nyckelarter (t.ex. dominerande, skadliga, potentiellt främmande och/eller invasiva arter, samt indikatorarter)\n
+        - För att tillhandahålla grundläggande data för ekosystemanalyser, näringsvävsstudier, modellering, samt för åtaganden inom havsmiljödirektivet och vattendirektivet\n
+        \nAnalysen följer dessa metoder:\n
+        - Maskininlärning: Sosik, H. M. and Olson, R. J. (2007), Automated taxonomic classification of phytoplankton sampled with imaging-in-flow cytometry. Limnol. Oceanogr: Methods 5, 204-216. http://github.com/hsosik/ifcb-analysis \n
+        - Kvalitetskontroll: Hayashi, K., Walton, J., Lie, A., Smith, J. and Kudela M. Using particle size distribution (PSD) to automate imaging flow cytobot (IFCB) data quality in coastal California, USA. In prep. http://github.com/kudelalab/PSD \n
+        - Dataprocessering: Anders Torstensson (2024). I 'R' FlowCytobot (iRfcb): Tools for Analyzing and Processing Data from the IFCB. R package version 0.3.10. https://doi.org/10.5281/zenodo.12533225. http://github.com/EuropeanIFCBGroup/iRfcb \n\n
+        \n\nData är insamlad från Tångesund oceanografiska plattform vid Orust på svenska kusten år 2016 (IFCB110), och från R/V Svea (https://vocab.nerc.ac.uk/collection/C17/current/77SE/) från år 2022 och framåt (IFCB134). Fler provtagningsplattformar är möjliga.
+
     ADCP:
       en: >
         The hull-mounted Acoustic Doppler Current Profiler (ADCP) measures the speed and direction of currents at multiple depths from the vessel to the seabed. The number of depth layers is determined by both the frequency of the ADCP and setup of the instrument. A vessel-mounted survey takes multiple current profile measurements at different points across a sailed track. Users can then see how the currents vary not only with depth, but across a geographic area.
@@ -305,7 +323,7 @@ methods:
         \n
         - https://currents.soest.hawaii.edu/docs/adcp_doc/index.html
       sv: >
-        Skrovmonterad Acoustic Doppler Current Profiler (ADCP) mäter hastighet och riktning på strömmarna på flera djup från fartygets undersida ner till havsbotten. Antalet djupsceller bestäms av både frekvensen på ADCP och instrumentets inställningar. En undersökning med skrovmonterad ADCP tar många strömprofiler vid olika punkter längs en rutt. Användare kan sedan se hur strömmarna varierar inte bara med djup, utan också över ett geografiskt område.
+        Skrovmonterad Acoustic Doppler Current Profiler (ADCP) mäter hastighet och riktning på strömmarna på flera djup från fartygets undersida ner till havsbotten. Antalet djupceller bestäms av både frekvensen på ADCP och instrumentets inställningar. En undersökning med skrovmonterad ADCP tar många strömprofiler vid olika punkter längs en rutt. Användare kan sedan se hur strömmarna varierar inte bara med djup, utan också över ett geografiskt område.
         \n
         I detta dataset hittar du data från R/V Svea i Skagerrak, Kattegatt och Östersjön från år 2022 och framåt.
         \n
