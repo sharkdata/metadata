@@ -127,13 +127,13 @@ orderer:
       sv: >
         text
   PROJ:
-    IFCB:
+    planktonimaging:
       en: >
-        text
+        The monitoring is financed by the Swedish Meteorological and Hydrological Institute.
       sv: >
         Övervakningen finansieras av Sveriges meteorologiska och hydrologiska institut.
     ADCP:
       en: >
-        text
+        The monitoring is financed by the Swedish Meteorological and Hydrological Institute.
       sv: >
         Övervakningen finansieras av Sveriges meteorologiska och hydrologiska institut.

@@ -33,3 +33,33 @@ datahost:
         Swedish Meteorological and Hydrological Institute
       sv: >
         Sveriges meteorologiska och hydrologiska institut
+    address:
+      en: >
+        Göteborgseskaderns plats 3
+      sv: >
+        Göteborgseskaderns plats 3
+    city:
+      en: > 
+        Västra Frölunda
+      sv: >
+        Västra Frölunda
+    postal code:
+      en: >
+        SE-421 71 
+      sv: >
+        421 71
+    phone:
+      en: > 
+        +46-(0)11-495 80 00
+      sv: >
+        011-495 80 00
+  nodc:
+    en: >
+      Swedish National Oceanographic Data Centre
+    sv: >
+      Svenskt nationellt oceanografiskt datacenter 
+  web:
+    en: >
+      http://shark.smhi.se
+    sv: >
+      http://shark.smhi.se

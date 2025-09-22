@@ -1,0 +1,40 @@
+datatype: source zip name or delivery_note?
+abstract: metadata/shark_package/package.yaml/abstract/ # delivery_note: övervakningsprogram :en
+description: metadata/dcat_ap_se/methods.yaml/methods:NAT/PROJ: #datatype :en
+dataset file name: #autogen zip name, ex SHARK_Phytoplankton_2020_SMHI_version_2025-03-09.zip
+discipline: metadata/shark_package/discipline.yaml/discipline #datatype :en
+
+measuring area type: metadata/shark_package/misc.yaml/measuring area type:default:en
+coordinate system: metadata/shark_package/misc.yaml/coordinate system:default:en
+platform class: metadata/shark_package/misc.yaml/platform class: # datatype :en
+access constraints: metadata/dcat_ap_se/license.yaml/license:description:en
+
+min year: # min(visit_year) 
+max year:  # max(visit_year) 
+min date: # min(sample_date) 
+max date: # max(sample_date) 
+min longitude dd: # min(sample_longitude_dd)
+max longitude dd: # max(sample_longitude_dd)
+min latitude dd: # min(sample_latitude_dd)
+max latitude dd: # max(sample_latitude_dd)
+parameter1 parameter: # unique(parameter) make parameter list with connected unit
+parameter1 unit: # unique(unit)
+parameter2 parameter: # unique(parameter)  make parameter list with connected unit
+parameter2 unit: # unique(unit)
+taxonomic coverage: # unique(scientific_name) make long sentence separated with , 
+
+originator: sampling_laboratory_name_sv or from delivery_note "rapporterande institut"
+contact: metadata/shark_package/originator_contact.yaml/originator_contact # delivery_note: kontaktperson men hur ska vi göra? funktionsmail bäst
+orderer: sample_orderer_name_sv or from delivery_note "beställare"
+
+data holding centre: metadata/dcat_ap_se/datahost.yaml/datahost:organization:fullname:en
+data distributor: metadata/dcat_ap_se/datahost.yaml/datahost:organization:fullname:en
+database reference: metadata/dcat_ap_se/datahost.yaml/datahost:name:en
+internet access: metadata/dcat_ap_se/datahost.yaml/datahost:web:en
+address: metadata/dcat_ap_se/datahost.yaml/datahost:organization:address:en
+postal code: metadata/dcat_ap_se/datahost.yaml/datahost:organization:postal code:en
+city: metadata/dcat_ap_se/datahost.yaml/datahost:organization:city:en
+phone: metadata/dcat_ap_se/datahost.yaml/datahost:organization:phone:en
+email: metadata/dcat_ap_se/datahost.yaml/datahost:email:en
+
+citation: metadata/shark_package/misc.yaml/citation:default:en

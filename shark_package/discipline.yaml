@@ -1,0 +1,96 @@
+# Metadata for Swedish marine environmental monitoring datasets.
+# Repository: https://github.com/sharkdata/metadata
+---
+
+
+discipline:
+  physicalchemical: 
+    en: >
+      Physical and chemical oceanography
+    sv: >
+      Fysisk och kemisk oceanografi
+  profile: 
+    en: >
+       Physical and chemical oceanography
+    sv: >
+      Fysisk och kemisk oceanografi
+  chlorophyll: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  phytoplankton: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  picoplankton: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  bacterioplankton: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  zooplankton: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  jellyfish: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  epibenthos: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  zoobenthos: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  ringedseal: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  harbourseal: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  greyseal: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  sealpathology: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  planktonimaging: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  planktonbarcoding: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  sedimentation: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
+  primaryproduction: 
+    en: >
+      Marine biology
+    sv: >
+      Marinbiologi
