@@ -1,0 +1,46 @@
+[project]
+name = "metadata"
+version = "2025.1.0"
+authors = [
+    {name="Mikael Hedblom", email="mikael.hedblom@smhi.se"},
+    {name = "Lena Viktorsson", email = " lena.viktorsson@smhi.se"},
+    {name = "Jonatan Skogsfors", email = "jonatan.skogsfors@smhi.se"},
+]
+dependencies = [
+    "pyyaml>=6.0.3",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {file = "LICENSE"}
+
+
+[project.scripts]
+generate-text-from-yaml = "metadata.generate_text_file_from_yaml:main"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.13.1",
+    "pre-commit>=4.3.0",
+    "pytest>=8.4.2",
+]
+
+[tool.uv]
+package = true
+
+
+[tool.ruff]
+line-length = 90
+indent-width = 4
+target-version = "py311"
+
+[tool.ruff.lint]
+select = [
+    "A",  # flake8-builtins
+    "F",  # pyflakes
+    "E", # pycodestyle: error
+    "W",  # pycodestyle: warning
+    "I",  # isort: unsorted-imports
+    "RUF"  # Ruff-specific rules
+]
+
+per-file-ignores."__init__.py" = ["F401"]
